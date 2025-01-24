@@ -1,0 +1,14289 @@
+Chunk 1:
+MEC521 – Course Outline                                                                                                                                           1 
+Dr. David, N.V.© 2014 – 2024 (Original design - 2014) 
+SCHOOL OF MECHANICAL ENGINEERING 
+College of Engineering, Universiti Teknologi MARA 
+40450 Shah Alam, Selangor. 
+ 
+ 
+PROGRAM 
+ 
+: 
+Bachelor of Eng. (Hons.) Mechanical 
+PROGRAM CODE : 
+CEEM220, CEEM222, EM220 
+COURSE TITLE 
+: 
+VIBRATIONS 
+COURSE CODE 
+: 
+MEC521 
+ 
+CREDIT HOURS 
+: 
+
+Chunk 2:
+
+3 HOURS 
+INSTRUCTOR 
+: 
+Assoc. Prof. Dr. David NV 
+CONTACT 
+ 
+: 
+012 – 689 3831 / 03 – 5543 5158 (10 am – 5 pm ONLY) 
+EMAIL 
+ 
+: 
+davidfkm@uitm.edu.my  
+WEB  
+ 
+: 
+http://nvdavid.wixsite.com/nvdavid  
+ROOM 
+ 
+: 
+T1-11-12C, S&T Complex, UiTM Shah Alam. 
+ 
+ 
+COURSE DESCRIPTION 
+ 
+(Mechanical) Vibrations is one of the first courses where students apply the knowledge of 
+mathematics, calculus and basic engineering sciences including statics, dynamics, solid 
+mechanics and fluid mechanics to solve p
+
+Chunk 3:
+ractical problems. Solution of practical problems 
+in vibrations requires Mathematical Modeling of the physical system. One frequent 
+application of the principles of Vibrations can be found in Engineering Design. 
+ 
+This course emphasizes understanding of the fundamental concepts of vibrations. It begins 
+with free vibration of single-degree-of-freedom for undamped and damped systems 
+followed by forced vibration with harmonic excitation. Multi-degree-of-freedom systems, 
+equations of motion an
+
+Chunk 4:
+d solution methods are introduced after which the determination 
+of natural frequencies and mode shapes are further explored. The course concludes with 
+the understanding of continuous media vibrations. 
+ 
+COURSE OBJECTIVES 
+ 
+Upon completion of this course, students should be able to: 
+ 
+[CO1] Apply the concepts and fundamental principles of vibration to mechanical 
+systems. [PO1, PLO1]{C2} 
+[CO2] Analyze and solve wide range of simple and complex vibration related problems. 
+[PO2, PLO2, PLO7]{
+
+Chunk 5:
+C4} 
+[CO3] Evaluate complex vibration related problems using available techniques. [PO3, 
+PLO2, PLO6]{C5} 
+ 
+COURSE FORMAT 
+ 
+This course is conducted as a combination of lecturers, tutorials and demonstrations 
+wherever necessary. The course content will be delivered on a blended-learning mode in a 
+topical fashion during the lecture hours while theories and quantitative areas will be 
+reinforced via tutorial sessions. Students are expected to invest about 3 hours per week for 
+self-study. Plea
+
+Chunk 6:
+se refer to the “My BL Approach” document at the Padlet space for this 
+course-group for a better understanding of this learning strategy. Student-centered learning 
+MEC521 – Course Outline                                                                                                                                           2 
+Dr. David, N.V.© 2014 – 2024 (Original design - 2014) 
+process will be assisted via a series of ungraded exercises including classroom exercises 
+(CE), problem-based lea
+
+Chunk 7:
+rning (PBL) and topical quizzes that will be allotted as per the 
+teaching schedule provided far below. CE and PBL sheets will be posted on Google 
+Classroom (GC). All graded course assessments will be administered at the UFUTURE 
+LMS. Graded assignments and mini project shall comprise questions from more important 
+and industry-relevant topics. Graded and ungraded quizzes will be administered upon 
+completion of selected sub-topic or main topic to assess the extent of knowledge gained 
+on funda
+
+Chunk 8:
+mental concepts or principles. There will be one mid-term test. There will strictly 
+be no class-wide make-up test. A copy of this course outline, lecture notes, supplementary 
+instructional materials and tutorial sheets will be distributed online at UFUTURE and 
+Padlet. Students are NOT allowed to use softcopy of the notes in physical classes. 
+Attendance for all online classes will be officially registered at UFUTURE and physical 
+classes will be taken on hardcopy. 
+ 
+The summary of the course
+
+Chunk 9:
+ format is given below: 
+ 
+Ü 
+Duration 
+: 
+14 weeks (plus two one-week mid-semester breaks) 
+Ü 
+Lecture  
+: 
+3 hours / week 
+Ü 
+Tutorial 
+: 
+1 hour / week 
+Ü 
+PBL 
+ 
+: 
+6 problem sheets (discussion-based; ungraded) 
+Ü 
+CE 
+ 
+: 
+18 exercise sheets (on a tutorial basis; ungraded) 
+Ü 
+Assignment 
+: 
+2 graded assignments 
+Ü 
+Quiz 
+ 
+: 
+2 graded quizzes (individual) 
+Ü 
+Mini project 
+: 
+1 graded project (individual; computing) 
+Ü 
+Test 
+ 
+: 
+1 graded mid-term test 
+Ü 
+Examination : 
+1 graded comprehe
+
+Chunk 10:
+nsive exam (three hours) 
+ 
+PREREQUISITE KNOWLEDGE 
+ 
+Course takers must have completed MEC411, MEC412 and MEC420 successfully. 
+Students are expected to possess grasp and skill on the following subjects: 
+ 
+(a) Physics       
+è 
+Force, Motion, Wave 
+ 
+(b) Mathematics 
+è 
+Calculus, Differential equations, Matrix operations  
+ 
+(b) Mechanics  
+è 
+Problem solving techniques in Statics and Dynamics 
+ 
+A Diagnostic Test will be administered during the first week of the semester for this 
+purpose. St
+
+Chunk 11:
+udents will have the opportunity to identify areas to revisit, refresh and reskill 
+to improve their success prospects for this course. 
+ 
+e-LEARNING INITIATIVE 
+ 
+For the October 2024 – February 2025 academic session, course information, lecture 
+notes, supplementary materials and tutorial sheets can be obtained at Padlet, and ungraded 
+CE, PBL and quizzes will be posted at GC. Link to the GC space for your course-group 
+will be provided by the instructor. All graded coursework assessments will
+
+Chunk 12:
+ be administered 
+at the UFUTURE portal. A copy of all course materials will be lodged at UFUTURE in 
+the respective folders of the instructor at the portal. Notifications, announcements and 
+updates will be posted on WhatsApp group, GC and at UFUTURE as deemed fit. 
+ 
+MEC521 – Course Outline                                                                                                                                           3 
+Dr. David, N.V.© 2014 – 2024 (Original design - 2014) 
+MARKS DIST
+
+Chunk 13:
+RIBUTION 
+ 
+Subject to further announcement by the Course Resource Person, the following general 
+scale MAY BE applied for the overall continuous assessment (graded components): 
+ 
+Midterm test  
+- 
+10% 
+ 
+Assignments  
+- 
+10% 
+ 
+Quizzes 
+ 
+- 
+10% 
+ 
+Mini project 
+ 
+- 
+10% 
+ 
+Examination  
+- 
+60% 
+ 
+ 
+The above distribution is not final and is subject to moderation at the eRes application. 
+The traditional “carry marks” therefore will not apply. 
+ 
+MARKING SCALE (GENERIC) 
+ 
+4.00 
+A+ (Excellent)
+
+Chunk 14:
+ 
+90 –100 
+2.33 
+C+ (Fair) 
+55 – 59 
+4.00 
+A 
+80 – 89 
+2.00 
+C  
+50 – 54 
+3.67 
+A- 
+75 – 79 
+1.67 
+C- 
+47 – 49 
+3.33 
+B+ (Good) 
+70 – 74 
+1.33 
+D+ 
+44 – 46 
+3.00 
+B 
+65 – 69 
+1.00 
+D 
+40 – 43 
+2.67 
+B- 
+60 – 64 
+0.67 
+E  
+30 – 39 
+ 
+TEXTBOOK / REFERENCES 
+ 
+1. 
+Main text: Rao, S. S., Mechanical Vibrations, 5th Ed., Prentice Hall, 2011. 
+2. 
+Dukkipati, R.V. and Srinivas, J., Solving Engineering System Dynamics Problems With 
+Matlab, New Age Science, 2009. 
+3. 
+Palm III , W. J., Mechanical Vibrati
+
+Chunk 15:
+on, John Wiley, 2007. 
+4. 
+Tongue, B. H., Principles of Vibrations 2nd Ed., Oxford University Press, 2002. 
+5. 
+Meirovitch, L., Fundamentals of Vibrations, McGraw-Hill, 2001. 
+6. 
+Inman, D. J. Engineering Vibration, 2nd Ed. Prentice Hall, 2000. 
+7. 
+Graham Kelly, S., Fundamentals of Mechanical Vibrations 2nd Ed., McGraw-Hill, 2000. 
+8. 
+Thompson, W.T. and Dahleh M. D., Theory of Vibrations with Applications, 5th Ed. 
+Prentice-Hall, 1998. 
+9. 
+Graham Kelly, S.,Mechanical Vibrations, Schaum's Outl
+
+Chunk 16:
+ine Series in Engineering, 
+McGraw-Hill, 1996. 
+10. 
+Timoshenko, S., Weaver Jr., W. and Young, D.H., Vibration Problems in Engineering, 
+5th Ed. Wiley Interscience, 1990. 
+11. 
+Meirovitch, L., Elements of Vibration Analysis, McGraw-Hill, 1986. 
+12. 
+Den Hartog,J. P., Mechanical Vibrations, McGraw Hill, 1985. 
+13. 
+Walshaw, A.C., Mechanical Vibrations with Applications, Ellis Horwood Ltd., 1984. 
+14. 
+Beards, C.F., Vibration Analysis and Control System Dynamics, Ellis Harwood Ltd., 1981. 
+ 
+CONSU
+
+Chunk 17:
+LTATION 
+ 
+The lecturer will be available for consultation between 10 am and 5 pm during weekdays. 
+Students with specific problems or in need of clarifications may text or video-meet the 
+lecturer by making prior appointment via email or text message through SMS or 
+WhatsApp. 
+ 
+MEC521 – Course Outline                                                                                                                                           4 
+Dr. David, N.V.© 2014 – 2024 (Original design - 2014) 
+
+Chunk 18:
+
+COURSE CONTENT AND COMPLETION PERIODS  
+ 
+Week  
+Hours 
+Topics 
+ 
+ 
+ 
+ 
+1  
+4 
+1.0 
+Fundamentals of Vibration 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1 
+Historical background 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2 
+Basic concepts of vibration and classification of 
+vibration  
+ 
+ 
+ 
+ 
+ 
+ 
+1.3 
+Harmonic analysis 
+ 
+ 
+ 
+ 
+ 
+REVIEW (graded Quiz 1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 – 4 
+10 
+2.0 
+Single Degree-of-Freedom Systems: Free Vibration 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1 
+Undamped free vibration 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 
+Equation of motion: Energy method 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3 
+Dampe
+
+Chunk 19:
+d free vibration 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4 
+Damping ratio and logarithmic decrement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEW (CE 1 – 9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 – 7 
+10 
+3.0 
+Single Degree-of-Freedom Systems: Forced 
+Vibration 
+ 
+ 
+ 
+3.1 
+Direct harmonic excitation (undamped and damped) 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 
+Rotating unbalance 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3 
+Support excitation (base motion) 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4 
+Applications: 
+3.1.1  Resonance 
+3.1.2  Transmissibility 
+3.1.3  Magnification factor 
+3.1.5 
+Vibration isolation 
+ 
+ 
+ 
+ 
+ 
+REVIEW  
+(CE 
+
+Chunk 20:
+10 – 19, PBL 1 – 3, Graded Assignment 1, Midterm Test, Mini-project) 
+ 
+ 
+ 
+MEC521 – Course Outline                                                                                                                                           5 
+Dr. David, N.V.© 2014 – 2024 (Original design - 2014) 
+ 
+ 
+ 
+ 
+ 
+8 – 11 
+10 
+4.0 
+Multiple Degree-of-Freedom (MDOF) Systems 
+ 
+ 
+ 
+4.1 
+Free vibration of MDOF mass-spring systems  
+ 
+ 
+ 
+4.2 
+Equation of motion 
+4.2.1 
+FBD method 
+4.2.2 
+Lagrange’s method  
+ 
+
+Chunk 21:
+
+ 
+ 
+4.3 
+Natural frequencies and mode shapes 
+ 
+ 
+ 
+ 
+ 
+ 
+4.4 
+Forced vibration of MDOF mass-spring systems: 
+Harmonic excitation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEW (CE 20 – 24, PBL 4 – 5, graded Assignment 2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 – 14 
+8 
+5.0 
+Fundamental Frequency Estimation Methods 
+ 
+ 
+ 
+ 
+ 
+ 
+5.1 
+Influence coefficient method 
+ 
+ 
+ 
+ 
+ 
+ 
+5.2 
+Dunkerley’s and Rayleigh’s methods 
+ 
+ 
+ 
+5.3 
+Vibration analysis using modern programming tools 
+ 
+ 
+ 
+ 
+ 
+REVIEW  
+(CE4, graded Quiz 2, Test 2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Chunk 22:
+
+ 
+ 
+ 
+NOTE: This course outline will be updated as necessary. Notification of any updated 
+version will be made in WhatsApp group and at UFUTURE. Updated versions of this 
+document will be posted at Padlet and UFUTURE. Course takers are advised to check out 
+the e-learning spaces regularly to keep themselves updated. 
+Kindly note that some of the words, phrases, texts or explanations found in this Introductory Pack are extracted from the 
+references mentioned in the MEC521 Course Outline handou
+
+Chunk 23:
+t with due honor.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universiti Teknologi MARA 
+ 
+Shah Alam 
+ 
+School of Mechanical Engineering 
+ 
+ 
+ 
+VIBRATIONS – MEC521 
+for 
+Bachelor of Eng. (Hons.) in Mechanical Engineering 
+ 
+ 
+ 
+ 
+LECTURE NOTES 
+ 
+CHAPTER 1 
+INTRODUCTION TO VIBRATIONS 
+ 
+ 
+THIS INTRODUCTORY PACK COMPRISE TOPICS ON: 
+ 
+Ü 
+The Study of Vibration 
+Ü 
+Terminology 
+Ü 
+Mathematical Modeling: The Basic Rules 
+Ü 
+Degree-of-Freedom (DOF) and Generalized Coordinates 
+Ü 
+Classification of Vibration 
+Ü 
+Mechanical Sy
+
+Chunk 24:
+stems Components 
+ 
+ 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                2 
+ 
+1.1 The Study Of Vibration 
+ 
+Engineering systems possessing mass and elasticity are capable of relative motion (from a 
+reference state). If such motion repeats itself at given interval of time, the motion is known as 
+vibration. The study of vibration is concerned with oscillatory motions of bodies and forces 
+associated with them hence application of engineering mechanics
+
+Chunk 25:
+. Vibration occurs in a wide 
+range of engineering systems (refer Figure 1 & 2 below) and often regarded as an undesirable 
+by-product of the system concerned (why?). The equation of motion of the system concerned 
+is often derived via idealization of the system using the mass-spring-dashpot terms, which 
+represents the body, elasticity and friction of the system, respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.1 All Bodies/Systems Possessing Mass and Elasticity are Capable of Vibrat
+
+Chunk 26:
+ion. 
+ 
+ 
+ 
+ 
+ 
+§ 
+Unbalanced rotating elements (fan, blades) 
+§ 
+Oscillating components (piston, valves) 
+§ 
+Rough mating surfaces (gears, bearings) 
+§ 
+Fluid and air flow causing turbulence (pipes, pumps, compressors) 
+§ 
+Forces induced by handling and transportation over rough road or rail surfaces. 
+ 
+ 
+Figure 1.2. Vibration Sources in an Automobile Vehicle. 
+(The design of car components generally requires consideration of their oscillatory behavior.) 
+Machine Tool 
+Rotating Machinery 
+Hous
+
+Chunk 27:
+ehold Appliances 
+(Washing Machine) 
+Automobiles 
+Office Appliances  
+Accelerometer 
+Human senses 
+vs. 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                3 
+ 
+1.2 Terminology 
+ 
+(a) 
+What is Vibration? 
+ 
+Vibration may be considered as an oscillating motion of a particle or body about reference 
+position (equilibrium position). The motion can be periodic, random or transient. 
+ 
+It can be perceived from different perspectives as given below: 
+ 
+• 
+Th
+
+Chunk 28:
+e periodic motion of a body or system of connected bodies produced by its displacement 
+from equilibrium position i.e. x as a function time, t; x(t). 
+ 
+• 
+An interchange between the potential energy and kinetic energy storage of a system that 
+produce a cyclic or oscillating motion of the system. 
+ 
+• 
+The natural period of vibration of a system can be utilized to determine the type of loading 
+(i.e. static or dynamic) exerted on the system.  
+ 
+• 
+Any objects that possess mass and elasticity a
+
+Chunk 29:
+re capable of vibrating. 
+ 
+ 
+(d) 
+Basic Elements of Vibration Waveform 
+ 
+v   FREQUENCY 
+- 
+Denoted by the symbol f and measured in units of Hertz (Hz). 
+- 
+Audible range: 20 Hz to 20 kHz. 
+- 
+Time for one complete cycle @ oscillation, T is the reciprocal of its 
+frequency, f,  i.e. 
+  
+ 
+NATURAL FREQUENCY      
+ 
+All systems possessing mass and elasticity are capable of free vibration. Of primary 
+interest for such systems is its natural frequency of vibration. The failure of major 
+structures
+
+Chunk 30:
+ such as bridges or airplane wings is an awesome possibility under resonance 
+conditions. It is therefore important to calculate the natural frequency of the vibration 
+system under investigation. 
+ 
+v    MAGNITUDE / AMPLITUDE 
+- 
+Denoted as A. 
+- 
+Depends on the expression of interest e.g. displacement in mm, velocity in 
+mm/s and acceleration either as m/s2 or g where 1g = 9.82 m/s2. 
+ 
+v   PHASE 
+- 
+This is usually measured in radian units and therefore dimensionless. 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ where
+
+Chunk 31:
+   
+, angular frequency, and 
+, initial phase. 
+  (details later) 
+ 
+ 
+ 
+ 
+T
+f
+1
+=
+)
+2
+sin(
+.
+f
+p +
+=
+ft
+A
+x
+f
+p
+w
+2
+=
+f
+Hz = 1/s 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                4 
+ 
+(e) 
+Measurements of Vibration 
+ 
+There are 3 basic expressions i.e. measurable quantity, which could be used to define vibration 
+as follows: 
+ 
+(a) Displacement, x(t) 
+(b) Velocity, v(t) 
+(c) Acceleration, a(t) 
+ 
+These expressions are related through the process of
+
+Chunk 32:
+ differentiation / integration as illustrated 
+below. 
+ 
+ 
+DIFFERENTIATION 
+ 
+x(t) 
+ 
+ 
+ 
+v(t) 
+ 
+ 
+ 
+a(t) 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+          
+ 
+ 
+INTEGRATION 
+ 
+Figure 1.3. The relationships of the three expressions of vibration are based on simple 
+calculus as shown here. 
+ 
+The mathematical description of these expressions can be formulated based on the 
+trigonometric relations, which yields the phase difference (-details later-) between the three 
+expressions. 
+ 
+è 
+x(t) 
+= 
+ 
+ 
+: where
+
+
+Chunk 33:
+, is the angular frequency. 
+ 
+è 
+v(t) 
+= 
+ 
+ 
+ 
+= 
+ 
+è 
+a(t) 
+= 
+ 
+ 
+ 
+= 
+ 
+ 
+These three equations essentially reflects the phases (or phase lag) of each expression relative 
+to the other two. (More details below.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x
+w
+x
+2
+w
+x
+)
+sin(
+.
+t
+X
+w
+f
+p
+w
+2
+=
+)
+cos(
+.
+.
+t
+X
+w
+w
+)
+2
+sin(
+.
+p
+w
+w
++
+t
+X
+)
+sin(
+.
+.
+2
+t
+X
+w
+w
+-
+)
+(
+.
+2
+t
+x
+w
+-
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                5 
+ 
+(f) 
+Peak Value, Mean Value and RMS
+
+Chunk 34:
+ Value 
+ 
+§ 
+The peak value of a vibrations measurement reflects the maximum stress that acts on the 
+vibrating object. This value also indicates the spatial constraint of the oscillation. 
+ 
+§ 
+The mean value of a vibrations measurement represents the equilibrium value such as that 
+for a DC level of an electric current. The mean value is given as: 
+ 
+ 
+ 
+For instance, the mean value a full sin wave (A sin(t)) is zero meanwhile for the mean value 
+for a half sin wave is: 
+ 
+                    
+
+Chunk 35:
+                
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.4. Mean Value of a Rectified Half Sine Wave 
+ 
+ 
+§ 
+The root-mean-square (RMS) value is related to the squaring of the displacement values of 
+the vibration and generally represents the energy content of the oscillation process. The 
+RMS value is given by: 
+ 
+ 
+ 
+ 
+For instance, if  x(t) = A sin (wt), the RMS is: 
+ 
+      
+ 
+ 
+ 
+ò
+¥
+®
+=
+T
+T
+t
+x
+T
+x
+0
+)
+(
+1
+lim
+ò
+=
+=
+=
+p
+p
+p
+0
+2
+).
+sin(
+A
+dt
+t
+A
+x
+dt
+t
+x
+T
+x
+T
+T
+.)
+(
+1
+0
+
+
+Chunk 36:
+2
+2
+lim
+ò
+¥
+®
+=
+=
+=
+-
+=
+ò
+¥
+®
+2
+0
+2
+2
+2
+1
+.
+))
+2
+cos(
+1(
+2
+1
+lim
+A
+dt
+t
+T
+A
+x
+T
+T
+w
+x(t) 
+t 
+A 
+2A/p 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                6 
+ 
+(g) 
+Measuring Vibration in Decibel Units 
+ 
+Decibel is a measuring unit, which is based on logarithmic scale, frequently used in vibration 
+measurements (be it displacement, velocity or acceleration). It is defined as: 
+ 
+ 
+ 
+ 
+ 
+ 
+These equations show that the (vibration) power is proportional 
+
+Chunk 37:
+to the square of amplitude or 
+voltage. The first power of amplitude or voltage can be measured in dB units using this 
+equation: 
+ 
+Þ 
+ 
+ 
+Since decibel is based on logarithmic scale, the addition or subtraction process should also be 
+executed logarithmically.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+÷÷
+ø
+ö
+çç
+è
+æ
+=
+2
+1
+10
+log
+10
+p
+p
+dB
+2
+2
+1
+10
+log
+10
+÷÷
+ø
+ö
+çç
+è
+æ
+=
+x
+x
+dB
+÷÷
+ø
+ö
+çç
+è
+æ
+=
+2
+1
+10
+log
+20
+x
+x
+dB
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024
+
+Chunk 38:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                7 
+ 
+1.3 Mathematical Modeling: The Basic Rules 
+ 
+Solution of an engineering problem often requires mathematical modeling of a physical system. 
+The modeling procedure usually starts from problem identification. The system to be modeled 
+is abstracted from its surroundings and the effects of the surroundings are noted. Known 
+constants and variable parameters are identified. Assumptions are made to simplify the 
+modeling. When assumptions are used, an approximate p
+
+Chunk 39:
+hysical system is modeled. The actual 
+system behavior may be somewhat different than that predicted using mathematical model. 
+Basic laws of nature such as conservation of momentum apply to all physical system. 
+Application of geometric constraints in the form of kinematic relationships is often necessary.  
+After the mathematical solution is complete, the results are formulated. Physical 
+interpretation of the results is an important final step in the modeling procedure.  
+ 
+(Suggested further
+
+Chunk 40:
+ reading: Graham Kelly, S., Fundamentals of Mechanical Vibrations 2nd Ed., 
+McGraw-Hill, 2000, pp. 3 – 6.) 
+ 
+ 
+A simple model of vibrating system is shown below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.5. A Mass-Spring System. 
+ 
+ 
+Using the Newton’s Second Law of Motion:  
+       
+        +¯ SF =    ma 
+Þ 
+ 
+ma   =    SF  =  w - k(D + x) 
+ 
+:  
+a   =   
+ 
+ 
+Since  kD = w = mg, 
+ 
+ 
+m 
+  =  - kx 
+Þ 
+ 
+ 
+ 
+The choice of the static equilibrium position as reference for x has eliminated w, t
+
+Chunk 41:
+he force due 
+to gravity, and the static spring force kD from the equation of motion. (Kindly refer to the 
+attachment  “Chapter 1 Supplement: The Fourier Series” below). 
+ 
+..
+x
+..
+x
+0
+..
+=
++ kx
+x
+m
+FBD: 
+A very important first line of EOM 
+Take note that the weight (mg) term is 
+therefore always canceled by the static 
+spring force (kD). It need NOT be 
+accounted 
+for 
+in 
+all 
+analyses 
+subsequent to this example. 
+SEP 
+x 
+× 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+
+Chunk 42:
+
+ 
+ 
+ 
+ 
+ 
+ 
+                8 
+ 
+Modeling of a Simple Harmonic Motion 
+ 
+Oscillatory motion may repeat itself regularly or display considerable irregularity. When the 
+motion is repeated in equal intervals of time, t, it is called periodic motion. The simplest form 
+of periodic motion is harmonic motion, which is shown in Figure 1.6. If the periodic motion is 
+a function of time, x(t), it must satisfy the relationship: x ( t ) = x ( t + t ). Hence, repetition of 
+the waveform at fixed intervals
+
+Chunk 43:
+, time for one complete cycle. The repetition time, t, is called 
+the period of oscillation, and its reciprocal, f = 1 / t is called the frequency. The relation between 
+the frequency of vibration, f and angular frequency, w (also called angular speed) of a vibrating 
+object is given by: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.6. Simple Harmonic Motion Waveform. 
+ 
+ 
+If the angular frequency of the line designated as w  (= 2pf) and measured in radians per second, 
+rad/s, and the displaceme
+
+Chunk 44:
+nt x (usually in mm) is: 
+ 
+ 
+                                                           x = A sin wt      
+                      ……….. (1) 
+ 
+where A is the amplitude of the vibration, measured from the equilibrium position. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.7. Harmonic Motion as Projection of a Point, P moving on a Circular Path. 
+f
+p
+w
+2
+=
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Chunk 45:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                10 
+ 
+1.4 Degree-of-Freedom (DOF) and Generalized Coordinates 
+ 
+The number of degrees of freedom (DOF) for a system is the number of kinematically 
+independent variables necessary to completely describe the motion of every particle in the 
+system. It represents the number of mode(s) or manner the system could vibrate i.e. the 
+geometric constrai
+
+Chunk 46:
+n. In other words, DOF tells the number of independent coordinates required 
+to completely define the geometric location of the masses involved. 
+ 
+ 
+EXAMPLES & EXCERCISE (Please fill in the Reason column) 
+ 
+The System 
+# DOF 
+Reasons 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+The mass in constrained to move only in the 
+vertical direction. Only one coordinate i.e. x(t) 
+is required to specify the location of the mass 
+at any time from static equilibrium. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Chunk 47:
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+By attaching the base to the body whose motion 
+is to be measured, the vibration pickup will be 
+able to measure oscillatory motion of the body. 
+This is possible by finding the relative motion 
+of the base and the mass. Hence, only one 
+coordinate 
+is 
+needed 
+to 
+specify 
+the 
+configuration of the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Chunk 48:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                12 
+ 
+1.5    Classification of Vibrations 
+ 
+Oscillatory systems can be broadly characterized as: 
+ 
+§ 
+Linear System – (predictable response, linear parametric relations) 
+§ 
+Non-linear System – (involves non-linear analysis to predict the system response) 
+ 
+There are two general classes of vibrations:  
+ 
+§ 
+Free Vibration  
+ 
+Oc
+
+Chunk 49:
+curs when a system oscillates under action of forces inherent in the system itself, 
+and when external impressed forces are absent. The system under free vibration will 
+vibrate at one or more of its natural frequencies, which are properties of the dynamical 
+system established by its mass and stiffness (elasticity) distribution.  
+ 
+(Periodic motion observed as the system is displaced from its static equilibrium 
+position) 
+ 
+§ 
+Forced Vibration  
+ 
+Occurs when external forces excite a system. 
+
+Chunk 50:
+The system is forced to vibrate at the 
+oscillatory, excitation frequency. If the excitation frequency coincides with one of the 
+natural frequencies (harmonics) of the system, a condition of resonance is encountered 
+(dangerous, large oscillations). 
+ 
+(External force(s) acting upon the system during its vibratory motion. In forced 
+vibration, the system will vibrate at its natural frequency as well as to follow the 
+frequency of the excitation force.) 
+ 
+ 
+PERIODIC MOTION 
+ 
+Some vibrations ar
+
+Chunk 51:
+e composed of several different frequencies simultaneously. For instance, 
+the vibration of a violin string is composed of the fundamental frequency, f and all its harmonics 
+2f, 3f etc. Such vibrations result in a complex waveform, which is repeated periodically. French 
+mathematician, J.Fourier (1768-1830) showed that any periodic motion could be re-presented 
+by a series of sines and cosines, which are harmonically related. (Kindly refer to the attachment  
+“Chapter 1 Supplement: The Fourier 
+
+Chunk 52:
+Series”). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.8. The Waveform of A Periodic Motion. 
+ 
+x 
+t 
+t 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                13 
+ 
+TRANSIENT VIBRATION   
+ 
+A transient vibration is non-continuous. It occurs: 
+ 
+§ 
+Due to impact, or  
+§ 
+During the starting up of a motor, or 
+§ 
+Anywhere that the exciting force is not continuous.  
+ 
+The transient vibration has a spectrum with many “lobes” that would contain a whole range of 
+freq
+
+Chunk 53:
+uencies. Refer to Figure 1.9. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.9. The Waveform of A Transient Vibration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acceleration (RMS) 
+Frequency 
+Acceleration 
+Time 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                14 
+ 
+1.6  Mechanical System Components 
+ 
+ 
+Any vibrating object can be idealized using three distinct vibratory aspects: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure
+
+Chunk 54:
+ 1.10. The Basic Representation Of Any Vibrating Objects. 
+ 
+ 
+SUMMARY: 
+ 
+Property 
+Parameter 
+Resisting Force 
+Material Type 
+Mass, m 
+Acceleration, a 
+Inertia 
+F = - m.a 
+All 
+Viscidity, c 
+Velocity, v 
+Viscidity force 
+F = - c.v 
+Fluid or solids 
+immersed in fluid 
+Rigidity, k 
+Displacement, x 
+Restoring force 
+F = - k.x 
+Solids 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Spring: 
+The resisting force 
+against displacement 
+Damper: 
+The resisting force 
+against velocity 
+Mass: 
+The resisting force 
+against accelera
+
+Chunk 55:
+tion 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                15 
+ 
+CHAPTER 1 SUPPLEMENT: THE FOURIER SERIES 
+ 
+Any repeated motion can be represented as a series of sinus and cosines that are harmonically 
+related. If x(t) is a piecewise continuous function of period t, then the Fourier series 
+representation for x(t) is: 
+ 
+x(t) 
+= 
+ 
+ 
+= 
+ 
+ 
+ 
+            ……..(C1.1) 
+ 
+By way of manipulating 
+ or 
+ on both sides of the above equation and then 
+integrat
+
+Chunk 56:
+ing them for time range of t, the coefficients an, bn and ao can be obtained. We will 
+obtain first these equations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0; if m ¹ n 
+Þ 
+     = 
+ 
+ 
+ 
+ 
+ 
+ 
+; if m = n 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0; if m ¹ n 
+Þ 
+     = 
+ 
+ 
+ 
+ 
+ 
+ 
+; if m = n 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0; if m ¹ n 
+Þ 
+     = 
+ 
+ 
+ 
+ 
+ 
+ 
+0; if m = n 
+ 
+ 
+It can be seen that all terms in the right hand side of the equation C1.1 is zero except if m = n, 
+therefore it can be concluded that: 
+ 
+an  
+=  
+ 
+ 
+bn  
+=  
+ 
+ 
+ao  
+=  
+ 
+....)
+sin
+sin
+(
+
+Chunk 57:
+
+....)
+cos
+cos
+(
+2
+2
+2
+1
+1
+2
+2
+1
+1
++
++
++
++
++
++
+t
+b
+t
+b
+t
+a
+t
+a
+ao
+w
+w
+w
+w
+å
+¥
+=
++
++
+1
+)
+sin
+cos
+(
+2
+n
+n
+n
+n
+n
+o
+t
+b
+t
+a
+a
+w
+w
+t
+n
+w
+cos
+t
+n
+w
+sin
+dt
+t
+t
+m
+n
+.
+cos
+.
+cos
+2
+/
+2
+/ò
+-
+t
+t
+w
+w
+2
+t
+dt
+t
+t
+m
+n
+.
+sin
+.
+sin
+2
+/
+2
+/ò
+-
+t
+t
+w
+w
+2
+t
+dt
+t
+t
+m
+n
+.
+sin
+.
+cos
+2
+/
+2
+/ò
+-
+t
+t
+w
+w
+ò
+-
+2
+/
+2
+/
+.
+cos
+)
+(
+2
+t
+t
+w
+t
+dt
+t
+t
+x
+n
+ò
+-
+2
+/
+2
+/
+.
+sin
+)
+(
+2
+t
+t
+w
+t
+dt
+t
+t
+x
+n
+ò
+t
+t 0
+).
+(
+1
+dt
+t
+x
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                16 
+ 
+Example 
+ 
+
+Chunk 58:
+
+Determine the Fourier series for the rectangular shape wave shown below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Solution 
+ 
+We know that: 
+ 
+x(t) 
+= 
+ 
+ 
+= 
+ 
+ 
+ 
+Determine the coefficients: 
+ 
+ 
+ao  
+=  
+ 
+ 
+ 
+= 
+  +  
+ 
+ 
+ 
+= 
+0 
+ 
+ 
+ 
+....)
+sin
+sin
+(
+....)
+cos
+cos
+(
+2
+2
+2
+1
+1
+2
+2
+1
+1
++
++
++
++
++
++
+t
+b
+t
+b
+t
+a
+t
+a
+ao
+w
+w
+w
+w
+å
+¥
+=
++
++
+1
+)
+sin
+cos
+(
+2
+n
+n
+n
+n
+n
+o
+t
+b
+t
+a
+a
+w
+w
+ò
+p
+p
+2
+0
+).
+(
+2
+1
+dt
+t
+x
+ò
+p
+p 0
+.1
+2
+1
+dt
+ò -
+p
+p
+p
+2
+).
+1
+(
+2
+1
+dt
+x(t)  =  -1  :  (0 < w1t £ p) 
+ 
+x(t)  =  
+
+Chunk 59:
+1   :  (p < w1t £ 2p) 
+-1 
+wt 
+1 
+p 
+2p 
+4p 
+-p 
+VIBRATIONS MEC521 – INTRODUCTORY PACK 
+ 
+ 
+David, N.V. © 2014-2024 
+ 
+ 
+ 
+ 
+ 
+ 
+                17 
+ 
+an  
+=  
+ 
+ 
+ 
+= 
+   –   
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+= 
+0 
+ 
+ 
+bn  
+=  
+ 
+ 
+ 
+= 
+   –   
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+where, 
+ 
+bn  
+= 
+   ;  if  n  is an odd integer  i.e. 1, 3, 5 etc.. 
+ 
+bn  
+= 
+0   
+;  if  n is an even integer  i.e. 2, 4, 6 etc.. 
+ 
+ 
+Therefore the Fourier series for the above waveform is 
+ 
+ 
+x(t) 
+= 
+, 
+ 
+ 
+where w1 = natural 
+
+Chunk 60:
+angular frequency. 
+ò
+p
+w
+w
+p
+2
+0
+1
+1 .
+cos
+)
+(
+2
+2
+t
+d
+t
+n
+t
+x
+ò
+p
+w
+w
+p 0
+1
+1 .
+cos
+1
+t
+d
+t
+n
+ò
+p
+p
+w
+w
+p
+2
+1
+1 .
+cos
+1
+t
+d
+t
+n
+ò
+p
+w
+w
+p
+2
+0
+1
+1 .
+sin
+)
+(
+2
+2
+t
+d
+t
+n
+t
+x
+ò
+p
+w
+w
+p 0
+1
+1 .
+sin
+1
+t
+d
+t
+n
+ò
+p
+p
+w
+w
+p
+2
+1
+1 .
+sin
+1
+t
+d
+t
+n
+)
+cos
+1(
+2
+p
+p
+n
+n
+-
+p
+n
+4
+t
+n
+n
+n
+1
+1
+)1
+2
+sin(
+)1
+2
+(
+4
+w
+-
+-
+å
+¥
+=
+Please fill in the next step…. 
+Please fill in the next step…. 
+Please fill in the next step…. 
+Kindly note that some of the words, phrases, texts or explanations found in this set of Lectur
+
+Chunk 61:
+e Notes (Chapter 2) are 
+extracted from the references mentioned in the MEC521 Course Outline Booklet with due honor.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universiti Teknologi MARA 
+ 
+School of Mechanical Engineering 
+ 
+Shah Alam 
+ 
+ 
+VIBRATIONS – MEC521 
+for 
+Bachelor of Eng. (Hons.) in Mechanical Engineering 
+ 
+ 
+ 
+LECTURE NOTES 
+ 
+CHAPTER 2 
+SINGLE DEGREE OF FREEDOM:  
+FREE VIBRATION 
+ 
+ 
+THIS SET OF LECTURE NOTES COMPRISES TOPICS ON: 
+ 
+Ü Equations of Linear System 
+Ü Free-Body Diagram Method (Newton’s Law of 
+
+Chunk 62:
+ Motion) 
+Ü Energy Method 
+Ü Rayleigh’s Method 
+Ü Undamped Response 
+Ü Damped Response 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   2 
+ 
+2.1.1 Definitions 
+ 
+(a) 
+Single Degree-of-Freedom 
+ 
+If a system is constrained in order that it can vibrate in only one mode or manner, or if only 
+one independent coordinate is required to specify completely the geometric location of the 
+masses of the system in space, it is a single DOF system
+
+Chunk 63:
+. 
+ 
+(b) 
+Free Vibration 
+ 
+Free vibration is the periodic motion observed as the system is displaced from its static 
+equilibrium position. No external force is acting towards the system during the motion. The 
+forces acting are the spring force, the friction force and the weight of the mass, which are all 
+intrinsic in nature relative to the system of concern. Due to the presence of friction, the vibration 
+will diminish with time. The vital aspect of analysis in this sub-section is the determ
+
+Chunk 64:
+ination of 
+the natural frequency of the system, in two distinct environment i.e. undamped and damped 
+vibration. 
+ 
+The following three types of free vibrations are important from the subject point of view: 
+ 
+(i) 
+Longitudinal Vibrations 
+-  Particles of the shaft or disc move parallel 
+to the axis of the shaft as shown in Figure 
+2.1(a). In this case, the shaft is elongated 
+and compressed alternately. (What are the 
+stresses induced in this case?) 
+ 
+Examples: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Fig
+
+Chunk 65:
+ure 2.1(a) 
+ 
+(ii) 
+Transverse Vibrations 
+-  Particles of the shaft or disc move 
+approximately perpendicular to the axis of 
+the shaft as shown in Figure 2.1(b). In this 
+case, the shaft is straight and bent 
+alternately. (What kind of stress is induced 
+in this case?) 
+ 
+Examples: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Figure 2.1(b) 
+ 
+ 
+(iii) 
+Torsional Vibrations 
+-  Particles of the shaft or disc move in a 
+circle about the axis of the shaft as shown 
+in Figure 2.1(c). In this case, the shaft is 
+twist
+
+Chunk 66:
+ed and untwisted alternately. (What 
+kind of stress is induced in this case?) 
+ 
+Examples: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Figure 2.1(c) 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   3 
+ 
+2.1.2 Equation of Motion (Newton’s Second Law of Motion) 
+ 
+The mass-spring system is the most convenient vibrating system to be modeled as shown in 
+Figure 2.2 below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.2. A Simple Mass-Spring System: Deriving the E
+
+Chunk 67:
+quation of Motion using the Free-
+Body-Diagram Method / Newton’s Law of Motion. 
+ 
+ 
+Newton’s Second Law of Motion can be used to obtain the equation of motion of the mass as 
+follows: 
+ 
+ 
+ 
+SF   =    ma 
+Þ 
+ 
+ma   =    SF  =  w - k(D + x) 
+ 
+:  
+a   =   
+ 
+ 
+Since  kD = w = mg, therefore,  m
+   =  - kx 
+Þ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………(2.1) 
+ 
+The choice of the static equilibrium position as reference (datum) for x has eliminated w, the 
+force due to gravity, and the static spring force kD from the equa
+
+Chunk 68:
+tion of motion. The definition 
+of natural angular frequency, wn , is: 
+ 
+ 
+    
+ 
+ 
+ 
+           
+  
+ 
+ 
+ 
+………(2.2) 
+ 
+ 
+ 
+Þ 
+                                         
+  =   
+ 
+ 
+ 
+[Go to Exercise 2.1 below before proceeding further]. 
+ 
+ 
+ 
+..
+x
+..
+x
+0
+..
+=
++ kx
+x
+m
+m
+k
+n =
+w
+n
+f
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   4 
+ 
+Exercise 2.1 
+ 
+Show that 
+, if the static deflection, D, is measured in mm. 
+ 
+ 
+ 
+Using this definition, 
+
+Chunk 69:
+equation (2.1) can be written as, 
+ 
+         
+ 
+ 
+ 
+             ………(2.3) 
+ 
+Þ 
+ 
+ 
+ 
+     
+  =    
+ 
+ 
+Equation (2.3) is a second order differential equation that is linear and homogen. The 
+generalized solution for this equation is: 
+ 
+            
+                               ………(2.4) 
+ 
+ 
+where the  integral constants A and B can be determined from the boundary conditions, 
+ 
+and 
+. Substitution of A and B into equation (2.4) to yields: 
+ 
+ 
+ 
+ 
+ 
+Note: 
+The value of static deflection, D 
+
+Chunk 70:
+(or sometimes d), may be found out from the given condition 
+of the problem. For longitudinal vibrations, the following relation can be used to obtain D, 
+ 
+ 
+ 
+Þ 
+ 
+ 
+Þ 
+ 
+ 
+where   
+W 
+= 
+load attached to the free end of constraint, 
+ 
+ 
+l 
+= 
+length of the constraint, 
+ 
+ 
+E 
+= 
+Young’s Modulus for the constraint, and 
+ 
+ 
+A 
+= 
+cross-sectional area of the constraint. 
+ 
+mm
+nf
+D
+=
+76
+.
+15
+0
+2
+..
+=
++
+x
+x
+n
+w
+..
+x
+t
+B
+t
+A
+t
+x
+n
+n
+w
+w
+cos
+sin
+)
+(
++
+=
+)
+0
+(x
+)
+0
+(
+.
+x
+t
+x
+t
+x
+t
+x
+n
+n
+n
+w
+w
+w
+cos
+
+
+Chunk 71:
+)
+0
+(
+sin
+)
+0
+(
+)
+(
+.
++
+=
+E
+ 
+ Modulus,
+Elasticity
+Strain
+Stress =
+E
+l
+A
+W
+=
+D
+´
+A
+E
+l
+W
+.
+.
+=
+D
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   5 
+ 
+2.1.3 Energy Method 
+ 
+For a conservative system, the total energy of the system is constant at all time and the equation 
+of motion can be derived using the principles of Conservation of Energy (Basic Law of Nature). 
+For a system that vibrates freely without damping, the energies involved a
+
+Chunk 72:
+re the potential 
+energy and kinetic energy. Recall that the kinetic energy, K.E. or T is possessed by a mass that 
+is moving (with a velocity) while the potential energy, P.E. or U, which is stored in the form 
+of strain energy, is obtained via either elastic deformation or work done on a gravitational field. 
+ 
+If the total energy of the system is expressed as potential and kinetic energy, the following is 
+true: 
+ 
+T + U   =  constant   
+ 
+ 
+ 
+ 
+             ………(2.5) 
+ 
+Þ 
+    
+ =  0 
+ 
+Based
+
+Chunk 73:
+ on equation (2.5) or its time rate of change, the equation of motion and natural frequency 
+of the system under consideration can be determined. 
+ 
+ 
+2.1.4 Rayleigh’s Method 
+ 
+Also, based on the energy conservation principles, the following equation is written to obtain 
+the natural frequency of the system in a straightforward manner. 
+ 
+ 
+Þ 
+         T1 + U1  
+=    T2 + U2 
+ 
+ 
+ 
+ 
+             ………(2.6) 
+ 
+ 
+If the sub-script 1 refers to the static equilibrium position of the mass (please ref
+
+Chunk 74:
+er Figure 2.1 
+above), then  U1   =  0, and if the sub-script 2 refers to the position of maximum displacement 
+(upward), then  T2  =  0.  
+ 
+ 
+Position 
+K.E. (T) 
+P.E. (U) 
+Static Equilibrium 
+Maximum level 
+ 
+Maximum Displacement 
+(upward) 
+Minimum level (= 0) 
+ 
+ 
+ 
+ 
+If the system undergoes harmonic motion, then T1 and U2 are the maximum values for kinetic 
+energy and potential energy, respectively. Hence, 
+ 
+ 
+(K.E.)max  =  (P.E.)max  =  Total Energy of the System 
+ 
+ 
+This is known as the 
+
+Chunk 75:
+Rayleigh’s Method. The resulting equation will readily yield the natural 
+frequency of the system. 
+ 
+ 
+ 
+)
+(
+U
+T
+dt
+d
++
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   6 
+ 
+EXAMPLE 2.1 
+ 
+In the mass-spring system shown in Figure 2.3, prove that the reduction in potential energy of 
+the mass as it is displaced from the static equilibrium is constantly replaced by the equivalent 
+work of spring. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.3. M
+
+Chunk 76:
+ass-Spring System and the Spring Force-Extension Plot 
+ 
+ 
+Solution 
+ 
+ENERGY METHOD (to determine the equation of motion) 
+ 
+By selecting the static equilibrium position as the reference, the potential energy of the mass at 
+this point is zero. By a displacement of x from this position, the increase of the spring’s strain 
+energy is determined from the area below the line of the Force-Extension Plot in Figure 2.3.  
+ 
+Þ 
+mgx  +  
+ 
+ 
+The loss of potential energy of the mass caused by the displa
+
+Chunk 77:
+cement x (downwards) is –mgx. 
+Therefore, the net change in the potential energy of the system is 
+. If this amount of 
+energy is added to the kinetic energy of the mass, the resultant energy is a constant as follows: 
+ 
+Þ 
+  +  
+  =  constant. 
+ 
+Differentiating this equation yields, 
+ 
+Þ 
+ 
+ 
+\ 
+ 
+ 
+ 
+ 
+EXAMPLE 2.2 
+2
+2
+1 kx
+2
+2
+1 kx
+2
+.
+2
+1
+x
+m
+2
+2
+1 kx
+0
+)
+(
+.
+..
+=
++
+x
+kx
+x
+m
+0
+..
+=
++ kx
+x
+m
+x 
+F 
+x 
+mg = kD 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+             
+
+Chunk 78:
+                      7 
+ 
+ 
+In the mass-spring system shown in Figure 2.4, determine the natural frequency of the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.4. Mass-Spring System and a Rotating Disc 
+ 
+ 
+Solution 
+ 
+Assume that the system shown in Figure 2.4 is moving harmonically with amplitude q from 
+the position of static equilibrium.  
+ 
+The maximum kinetic energy possess by the system is: 
+ 
+Þ 
+ 
+ 
+where J is the mass moment of inertia of the rotating disc.  
+ 
+[ Take note 
+
+Chunk 79:
+that xk = r2q   and xm = r1q  ] 
+ 
+ 
+The potential energy that is stored in the spring is: 
+ 
+Þ 
+ 
+ 
+ 
+ 
+ 
+ 
+(continued on the following page) 
+ 
+.
+2
+1
+2
+.
+)
+(
+2
+1
+)
+(
+2
+1
+q
+q
+r
+m
+J
+Tmaks
++
+=
+2
+2
+)
+(
+2
+1
+q
+r
+k
+U maks =
+k 
+r1 
+r2 
+q 
+m 
+ 
+m 
+x 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   8 
+ 
+1st Method: 
+ENERGY METHOD 
+ 
+Þ 
+T + U = constant  
+……………………. The Energy Method Formula 
+ 
+Þ 
+ =  constant 
+ 
+Þ 
+ =  constant 
+ 
+ 
+Differentiating
+
+Chunk 80:
+ the above equation yields, 
+Þ 
+ =  0 
+ 
+ 
+Þ 
+  =  0 
+ 
+º 
+  =  0 
+ 
+ 
+\ 
+ 
+ 
+ 
+ 
+2nd Method: 
+RAYLEIGH’S METHOD  
+ 
+Þ 
+  
+ 
+Þ 
+  
+ 
+ 
+Þ 
+ 
+ 
+: compare to this generic form,  
+ 
+ 
+ 
+\ 
+ 
+ 
+ 
+.
+2
+1
+2
+.
+)
+(
+2
+1
+)
+(
+2
+1
+q
+q
+r
+m
+J
++
+2
+2
+)
+(
+2
+1
+q
+r
+k
++
+.
+2
+2
+1
+)
+)(
+(
+2
+1
+q
+mr
+J +
+2
+2
+)
+(
+2
+1
+q
+r
+k
++
+.
+..
+2
+1
+)
+()
+)(
+(
+q
+q
+mr
+J +
+.
+2
+2
+)
+)(
+(
+)
+(
+q
+q
+r
+k
++
+q
+q
+)
+(
+2
+1
+2
+2
+..
+mr
+J
+kr
++
++
+q
+w
+q
+2
+..
+n
++
+)
+(
+2
+1
+2
+2
+mr
+J
+kr
+n
++
+=
+w
+.
+2
+1
+2
+.
+)
+(
+)
+(
+q
+q
+r
+m
+J
++
+2
+2
+)
+(
+q
+r
+k
+=
+.
+2
+2
+1
+)
+)(
+)
+(
+(
+q
+r
+m
+J
+
+Chunk 81:
+ +
+2
+2
+2
+)
+(
+)
+(
+q
+r
+k
+=
+2
+2
+1
+2
+2
+2
+.
+)
+(
+q
+q
+mr
+J
+kr
++
+=
+max
+max
+.
+Q
+=
+Q
+n
+w
+)
+(
+2
+1
+2
+2
+mr
+J
+kr
+n
++
+=
+w
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   9 
+ 
+WORKSHEET (2.1) 
+ 
+Determine the natural frequency of the mass-spring-pulley system shown in Figure 2.5 using 
+the Free-Body-Diagram Method (Newton’s Second Law of Motion). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.5. Mass-Spring-Pulley System 
+ 
+ 
+ 
+Part Solution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Chunk 82:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+r 
+You are required to 
+construct a FBD in 
+order to obtain the 
+EOM. The following 
+needs to be observed in 
+your FBD: 
+ 
+A label “FBD” 
+ 
+x-y coordinate system 
+ 
+Assumed direction of 
+motion (at the time of 
+analysis) 
+ 
+All the forces acting on 
+the body of interest 
+Do you remember what is 
+the first line of EOM? 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   10 
+ 
+Alternative solution using 
+
+Chunk 83:
+FBD method: 
+WORKSHEET (2.2) 
+ 
+Determine the natural frequency of the simple pendulum shown in Figure 2.6 using the Energy 
+Method. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.6. A Simple Pendulum System 
+ 
+ 
+ 
+Part Solution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   11 
+ 
+2.1.5 Damped Response 
+ 
+So far, we have been discussing about the free vibration of undamped systems and 
+
+Chunk 84:
+their 
+characteristics. Based on ideal conditions, the vibrating motion of a system repeats itself 
+infinitely with time (no change in characteristics!). However, under realistic conditions, for 
+instance, the vibration of a simple pendulum system shown Figure 2.6 above will diminish in 
+amplitude (comes to rest) after several full oscillations. This occurs as a result of natural 
+resistances (such as?), which the system has to overcome, whereby the internal energy of the 
+vibratory system is ut
+
+Chunk 85:
+ilized.  
+ 
+When there is reduction in amplitude over every cycle of vibration, the motion is said to be 
+damped vibration. Thus, in damped vibrations, the amplitude of the resulting vibration 
+gradually diminishes. This is due to the fact that a certain amount of energy possessed by the 
+vibrating system is always dissipated in overcoming frictional resistance to the motion. The 
+frictional resistance posed to the motion of the body can be caused by various factors: 
+ 
+(i) 
+The medium in which 
+
+Chunk 86:
+the vibration takes place (air, fluid etc.). 
+(ii) 
+Internal friction. 
+(iii) 
+The (external) dampening element(s) that is attached to the system. 
+ 
+In vibrating systems, the effect of friction is referred to as damping. The damping provided by 
+fluid resistance is known as viscous damping. A dashpot is a mechanical device that adds 
+viscous damping to a mechanical system. A linear viscous damping component has a force-
+velocity relation of the form, 
+ 
+Þ 
+         F   =    c.v  
+ 
+ 
+ 
+        
+
+Chunk 87:
+       
+             ………(2.7) 
+ 
+where c is the damping coefficient of dimensions mass per time (force per unit velocity). 
+ 
+Consider a vibrating system, as shown in Figure 2.7, in which a mass is suspended from one 
+end of the spiral spring and the other end of which is fixed. A damper is provided between the 
+mass and the rigid support. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.7. Free Damped Vibrations of a Mass-Spring-Damper System. 
+ 
+ 
+Let 
+m 
+= 
+Mass suspended from the spring. 
+k 
+= 
+Spring stif
+
+Chunk 88:
+fness. 
+x 
+= 
+Displacement of the mass from the mean position at time t. 
+D 
+= 
+Static deflection ( = 
+). 
+c 
+= 
+Damping coefficient (damping force per unit velocity). 
+k
+mg
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   12 
+ 
+Step ! :  Developing the Equation Of Motion 
+ 
+The forces involved in the motion of a mechanical system as shown in Figure 2.7 can be 
+individually expressed on the elemental basis. There are three elements in the s
+
+Chunk 89:
+ystem shown 
+i.e. spring, damper and mass.  
+ 
+Spring force on the mass acting in opposite direction to the motion of the mass, 
+ 
+ 
+Þ 
+Fs   = 
+k.x 
+               
+               
+ 
+ 
+             ………(2.8) 
+ 
+ 
+ 
+Based on Equation (2.7) above, the damping force (frictional force) on the mass acting in 
+opposite direction to the motion of the mass is given by, 
+ 
+ 
+Þ 
+Fc   = 
+               
+               
+ 
+ 
+             ………(2.9) 
+ 
+ 
+which shows that the frictional motion of the body is dire
+
+Chunk 90:
+ctly proportional to the speed of the 
+movement. 
+ 
+Accelerating motion on the mass acting parallel to the motion of the mass, 
+ 
+Þ 
+Fm   = 
+              
+ 
+ 
+               
+           ………(2.10)
+ 
+               
+ 
+Hence, the equation of motion is, 
+ 
+Þ 
+ 
+= 
+ –  
+ 
+ 
+ 
+Þ 
+   +    
+   +   k.x    = 
+0 
+ 
+ 
+Þ 
+    = 
+0 
+ 
+ 
+               
+           ………(2.11) 
+ 
+ 
+This is a second-order differential equation. A system described by this equation is said to be 
+a single DOF harmonic oscillator wi
+
+Chunk 91:
+th viscous damping. 
+ 
+ 
+ 
+ 
+ 
+dt
+dx
+c ´
+2
+2
+dt
+x
+d
+m´
+2
+2
+dt
+x
+d
+m´
+÷
+ø
+ö
+ç
+è
+æ
++
+´
+x
+k
+dt
+dx
+c
+.
+2
+2
+dt
+x
+d
+m´
+dt
+dx
+c ´
+x
+m
+k
+x
+m
+c
+x
+.
+..
++
++
+….Why negative sign? 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   13 
+ 
+Step " :  Solving the Equation 
+ 
+The usual form of solution for Equation (2.11) can be written as: 
+ 
+Þ 
+x 
+= 
+est 
+ 
+ 
+ 
+= 
+cos s  +  j sin s 
+ 
+ 
+ 
+By differentiation and substitution, Equation (2.11) becomes, 
+ 
+ 
+ Þ 
+
+Chunk 92:
+
+(ms2  +  cs  +  k). est   
+= 
+0 
+ 
+ 
+ 
+The equation above is termed characteristic equation that has two roots: 
+ 
+ 
+Þ 
+ 
+= 
+  
+ 
+ 
+           ………(2.12) 
+ 
+ 
+ 
+Therefore, the general solution for Equation (2.11) is, 
+ 
+ 
+ 
+Þ 
+x 
+= 
+  
+ 
+               
+           ………(2.13) 
+ 
+ 
+ 
+where the coefficients A and B can be determined from the boundary  (or initial) conditions 
+x(0) and 
+. 
+ 
+ 
+Substituting the values of s1 and s2 into Equation (2.13) yields, 
+ 
+ 
+Þ 
+x(t) 
+= 
+       ………(2.14) 
+ 
+ 
+Thr
+
+Chunk 93:
+ee significant consequences in aspects of motion may arise from Equation (2.14) due to the 
+relative values of the damping term, (c/2m)2, and the elasticity term, k/m. They are: 
+ 
+(i) 
+critical damping,  
+(ii) 
+under-damping and,  
+(iii) 
+over-damping. 
+2
+,1s
+m
+k
+m
+c
+m
+c
+-
+÷
+ø
+ö
+ç
+è
+æ
+±
+-
+2
+2
+2
+t
+s
+t
+s
+Be
+Ae
+2
+1 +
+)
+0
+(
+.
+x
+)
+(
+].
+)
+/
+(
+)
+2
+/
+(
+[
+].
+)
+/
+(
+)
+2
+/
+(
+[
+)
+2
+/
+(
+2
+2
+t
+m
+k
+m
+c
+t
+m
+k
+m
+c
+t
+m
+c
+Be
+Ae
+e
+-
+-
+-
+-
++
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+     
+
+Chunk 94:
+                              14 
+ 
+2.1.5.1 Critical Damping 
+ 
+If the damping term, (c/2m)2, is equal  to the elasticity term, k/m, i.e., 
+, according 
+to Equation (2.12), the radical (i.e. the term under the square root) becomes zero and  the roots, 
+s1 and s2, are identical. This is a case of critical damping.§   
+ 
+ 
+From this condition, the natural angular frequency could be determined as follows: 
+ 
+ 
+Þ 
+      ………………..(we have shown earlier that  
+) 
+ 
+ 
+Therefore, critical damping coeffic
+
+Chunk 95:
+ient (variable) is written as, 
+ 
+ 
+Þ 
+  
+ 
+ 
+ 
+ 
+           ………(2.15) 
+ 
+ 
+The critical damping coefficient, ccr, is the amount of damping required for a system to be 
+critically damped. It is more convenient and relevant to state the damping coefficient in 
+Equation (2.15) in a dimensionless form called the damping ratio (also, damping factor): 
+ 
+ 
+Þ 
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+In general, the damping ratio is the measure of the relative amount of damping in the existing 
+system with that n
+
+Chunk 96:
+ecessary for the critical damped system. Therefore, 
+ 
+Þ 
+ 
+ 
+ 
+Subsequently, the roots given by Equation (2.12) is summarized as: 
+ 
+ 
+Þ 
+  
+ 
+ 
+ 
+ 
+           ………(2.16) 
+ 
+§ The critical damping is said to occur when the frequency of damped vibration (fd) is zero (aperiodic 
+motion). This type of damping causes the mass to retreat (move back) rapidly to its equilibrium 
+position in the shortest possible time. (Refer Sub-section 2.1.5.1 below for theoretical details). 
+m
+k
+m
+c
+=
+÷
+ø
+ö
+ç
+è
+æ
+2
+2
+
+Chunk 97:
+
+2
+2
+2
+n
+m
+k
+m
+c
+w
+=
+=
+÷
+ø
+ö
+ç
+è
+æ
+2
+n
+m
+k
+w
+=
+n
+cr
+m
+km
+c
+w
+2
+2
+=
+=
+cr
+c
+c
+=
+z
+n
+cr
+m
+c
+m
+c
+zw
+z
+=
+= 2
+.
+2
+n
+s
+w
+z
+z
+).
+1
+(
+2
+2
+,1
+-
+±
+-
+=
+(kindly take note of this new term!) 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   15 
+ 
+It has to be noted that all of the three specific damping cases aforementioned depends on the 
+damping ratio. Critically damped type of vibrations occurs when 
+, which yields the root 
+values, s1  =  s2  =  -wn.
+
+Chunk 98:
+ This is consistent with the earlier statement based on Equation (2.12). 
+ 
+ 
+For this case, the equation of motion is, 
+ 
+ 
+Þ 
+ 
+= 
+  
+= 
+ 
+ 
+ 
+where the values of A and B (or its combination, C) are obtained from the initial conditions. 
+ 
+ 
+Finally, 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+           ………(2.17) 
+ 
+ 
+ 
+The response curve, x(t) for critically damped vibrations with different boundary conditions is 
+given in Figure 2.8. Note that the curves indicate the aperiodic motion of the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Chunk 99:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.8. The Response of x(t) for Various Initial Conditions: Critical Damping. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+=
+z
+)
+(t
+x
+t
+n
+e
+B
+A
+w
+-
++
+)
+(
+t
+n
+Ce
+w
+-
+)
+(t
+x
+)}
+0
+(
+)]
+0
+(
+)
+0
+(
+{[
+.
+x
+t
+x
+x
+e
+n
+t
+n
++
++
+-
+w
+w
+x(t) 
+t 
+x(0) 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   16 
+ 
+2.1.5.2 Under-Damping 
+ 
+If the damping term, (c/2m)2, is lesser than the elasticity term, k/m, i.e. 
+, according 
+to Equation (2.12), the radical 
+
+Chunk 100:
+becomes negative, producing complex conjugate roots. This 
+scenario is known as under-damping (also, small damping). The resulting form of the radical 
+is, 
+ 
+ 
+Þ 
+ 
+ 
+ 
+For this case, the damping ratio, z < 1.0, therefore, 
+ 
+ 
+Þ 
+ 
+= 
+  
+ 
+  
+ 
+           ………(2.18) 
+ 
+ 
+ 
+The response of the system is given by: 
+ 
+ 
+Þ 
+x(t) 
+= 
+ 
+ 
+           ………(2.19) 
+ 
+ 
+ 
+which can be expanded based on the Euler’s theorem; 
+ 
+ 
+Þ 
+x(t)   
+=   
+  
+ 
+ 
+ 
+ 
+= 
+  ª 
+ 
+as follows: 
+ 
+ 
+ 
+ 
+ª Note that the cosin
+
+Chunk 101:
+e and sin terms represent the oscillating motion with a specific frequency… 
+ 
+m
+k
+m
+c
+<
+÷
+ø
+ö
+ç
+è
+æ
+2
+2
+t
+m
+c
+m
+k
+i
+.
+2
+2
+÷
+ø
+ö
+ç
+è
+æ
+-
+±
+n
+s
+w
+2
+,1
+2
+1 V
+V
+-
+±
+-
+i
+)
+(
+)
+1
+(
+)
+1
+(
+2
+2
+t
+i
+t
+i
+t
+n
+n
+n
+Be
+Ae
+e
+w
+V
+w
+V
+Vw
+-
+-
+-
+-
++
+t
+m
+k
+m
+c
+j
+e
+.
+2
+2
+-
+÷
+ø
+ö
+ç
+è
+æ
+±
+t
+m
+k
+m
+c
+j
+t
+m
+k
+m
+c
+.
+2
+sin
+.
+.
+2
+cos
+2
+2
+÷
+÷
+ø
+ö
+ç
+ç
+è
+æ
+-
+÷
+ø
+ö
+ç
+è
+æ
+±
+÷
+÷
+ø
+ö
+ç
+ç
+è
+æ
+-
+÷
+ø
+ö
+ç
+è
+æ
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   17 
+ 
+Þ 
+x(t) 
+= 
+ 
+ 
+
+
+Chunk 102:
+ 
+ 
+ 
+= 
+  
+ 
+          ………(2. 20) 
+ 
+ 
+It is proved below that the term 
+in Equation (2.20) is equivalent to the circular 
+(angular) damped frequency of the system, 
+, (which is physically different compared to the 
+natural frequency,
+, of the same system under undamped condition). Therefore, one can see 
+from Equation (2.20) that the motion of the mass in under-damping condition is Simple 
+Harmonic with damped angular frequency, 
+, and amplitude, 
+, which diminishes 
+exponentially with time. T
+
+Chunk 103:
+he typical response of under-damping case is illustrated in Figure 
+2.9.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.9. The Response of x(t) for Under-Damping. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+)
+1
+cos(
+1
+sin(
+(
+2
+2
+2
+1
+)
+(
+t
+C
+t
+C
+e
+n
+n
+t
+n
+w
+V
+w
+V
+Vw
+-
++
+-
+-
+)
+1
+sin(
+2
+)
+(
+f
+w
+V
+Vw
++
+-
+-
+t
+Xe
+n
+t
+n
+n
+w
+V 2
+1-
+d
+w
+n
+w
+d
+w
+t
+n
+Xe
+)
+(Vw
+-
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   18 
+ 
+Determining the Angular Damped Frequency 
+ 
+ 
+For the
+
+Chunk 104:
+ sake of mathematical calculations, assume the following: 
+ 
+ 
+, 
+ 
+ 
+ 
+ 
+Þ 
+     = 
+ 
+ 
+ 
+ 
+ 
+     
+= 
+  
+ 
+ 
+ 
+        ………(2. 21a) 
+ 
+ 
+ 
+ 
+     
+= 
+ 
+ 
+ 
+ 
+ 
+        ………(2. 21b) 
+ 
+ 
+The damped vibration period, td, is related to the angular frequency of the damped vibration, 
+wd by the following equation: 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+          ………(2. 22)
+ 
+           
+ 
+ 
+and the frequency of damped vibration, 
+ 
+ 
+ 
+ 
+a
+m
+c
+n =
+= zw
+2
+2
+n
+m
+k
+w
+=
+d
+w
+2
+2
+÷
+ø
+ö
+ç
+è
+æ
+-
+m
+
+
+Chunk 105:
+c
+m
+k
+(
+)
+2
+2
+a
+n
+-
+w
+2
+1 V
+w
+-
+n
+d
+t
+d
+w
+p
+2
+(
+)
+2
+2
+2
+a
+n
+-
+w
+p
+2
+1
+2
+V
+w
+p
+-
+n
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   19 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+           
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+  
+ 
+ 
+          ………(2. 23) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+df
+d
+t
+1
+p
+w
+2
+d
+(
+)
+2
+2
+2
+1
+a
+n
+-
+w
+p
+2
+2
+2
+1
+÷
+ø
+ö
+ç
+è
+æ
+-
+÷
+ø
+ö
+ç
+è
+æ
+m
+c
+m
+s
+p
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+
+
+Chunk 106:
+ 
+ 
+ 
+ 
+                                   20 
+ 
+2.1.5.3 Over-Damping 
+ 
+If the damping term, (c/2m)2, is greater than the elasticity term, k/m, i.e. 
+, the 
+values of the exponent in Equation (2.14) i.e. the roots, s1 and s2, are real but negative. For this 
+case, the damping ratio, z, > 1.0. 
+ 
+ 
+Þ 
+ 
+ 
+ 
+Thus, one of the roots will increase while the other will decrease with time depicted in Figure 
+2.10. This scenario is called over-damping and consequently, vibratory oscillations do not 
+oc
+
+Chunk 107:
+cur. The mass moves slowly to the equilibrium position. This motion is known as aperiodic 
+(no frequency). When the roots are real, the most general solution of the differential equation 
+is, 
+ 
+Þ 
+x(t) 
+= 
+ 
+ 
+ 
+The constants A and B is given by the initial conditions as follows: 
+ 
+Þ 
+A 
+= 
+ 
+ 
+Þ 
+B 
+= 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.10. The Response of x(t) for Aperiodic Motion: Over-Damping (in comparison to 
+the other two types of damping). 
+m
+k
+m
+c
+>
+÷
+ø
+ö
+ç
+è
+æ
+2
+2
+t
+s
+n.
+).
+1
+(
+
+Chunk 108:
+
+2
+2
+,1
+w
+z
+z
+-
+±
+-
+=
+)
+1
+(
+)
+1
+(
+2
+2
+t
+i
+t
+i
+n
+n
+Be
+Ae
+w
+V
+V
+w
+V
+V
+-
+-
+-
+-
++
+-
++
+n
+nx
+x
+1
+2
+)
+0
+(
+)
+1
+(
+)
+0
+(
+2
+2
+.
+-
+-
++
++
+V
+w
+w
+V
+V
+n
+nx
+x
+1
+2
+)
+0
+(
+)
+1
+(
+)
+0
+(
+2
+2
+.
+-
+-
+-
+-
+-
+V
+w
+w
+V
+V
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   21 
+ 
+2.1.6 Logarithmic Decrement 
+ 
+Logarithmic decrement is defined as the natural logarithm of the amplitude reduction factor. 
+The amplitude reduction factor is the ratio of any two successive amplitud
+
+Chunk 109:
+es on the same side 
+of the mean position, as illustrated in Figure 2.11 for which the response is given by Equation 
+(2.20) above.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.11. The response curve, x(t) of a under-damped mechanical system: Logarithmic 
+decrement of successive amplitudes. 
+ 
+ 
+If x1 and x2 are successive values of the amplitude on the same side of the mean position, then 
+the Amplitude Reduction Factor is, 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+ 
+[   = 
+ ,  since  
+   ] 
+ 
+ 
+ 
+ 
+= 
+constant 
+ 
+ 
+
+Chunk 110:
+
+where  t   is the time difference between two consecutive amplitudes. 
+ 
+ 
+In general, amplitude reduction factor, 
+ 
+ 
+  =  
+  =   
+ 
+  = ………… =   
+  =     
+     =   constant 
+ 
+ 
+2
+1
+x
+x
+)
+(
+2
+2
+d
+t
+m
+c
+t
+m
+c
+Ae
+Ae
+t
++
+÷
+ø
+ö
+ç
+è
+æ
+-
+÷
+ø
+ö
+ç
+è
+æ
+-
+d
+m
+c
+e
+t
+÷
+ø
+ö
+ç
+è
+æ
+2
+d
+n
+e
+t
+Vw
+n
+m
+c
+Vw
+=
+2
+2
+1
+x
+x
+3
+2
+x
+x
+4
+3
+x
+x
+1
++
+n
+n
+x
+x
+d
+m
+c
+e
+t
+÷
+ø
+ö
+ç
+è
+æ
+2
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   22 
+ 
+The Logarithmic Decrement of th
+
+Chunk 111:
+e amplitudes of x(t) is given by: 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+           ………(2. 24) 
+ 
+ 
+Since the amplitude value of the sin wave is equal (repeats itself) for each time difference of 
+one complete oscillation, Equation (2.24) can be simplified as: 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+ 
+= 
+  
+ 
+ 
+ 
+ 
+          ………(2. 25) 
+ 
+ 
+Substituting the value of the damped vibration period, td, given by Equation (2.22), into 
+Equation (2.25) yields, 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+          ………(2. 26) 
+ 
+ 
+ 
+If the magni
+
+Chunk 112:
+tude of  
+  is extremely small that 
+, the equation above becomes 
+ 
+ 
+Þ 
+ 
+» 
+ 
+ 
+ 
+ 
+The general equation for logarithmic decrement is usually written as follows: 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+          ………(2. 27) 
+d
+2
+1
+ln x
+x
+ïþ
+ïý
+ü
+ïî
+ïí
+ì
++
++
+-
++
+-
++
+-
+-
+)
+)
+(
+1
+sin(
+)
+1
+sin(
+ln
+1
+2
+)
+(
+1
+2
+1
+1
+f
+t
+w
+V
+f
+w
+V
+t
+Vw
+Vw
+d
+n
+t
+n
+t
+t
+e
+t
+e
+d
+n
+n
+d
+þ
+ý
+ü
+î
+í
+ì
++
+-
+-
+)
+( 1
+1
+ln
+d
+n
+n
+t
+t
+e
+e
+t
+Vw
+Vw
+d
+n
+e
+t
+Vw
+ln
+d
+nt
+Vw
+d
+2
+1
+2
+V
+pV
+-
+V
+1
+1
+2 @
+-V
+d
+pV
+2
+d
+÷÷
+ø
+ö
+çç
+è
+æ
++1
+ln
+n
+n
+x
+x
+VIBRATIONS MEC521 
+
+Chunk 113:
+– CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   23 
+ 
+EXAMPLE 2.3 
+ 
+A vibrating system consists of a mass of 200 kg, a spring stiffness 80 N/mm and a damper with 
+damping coefficient of 800 N/m/s. Determine the frequency of vibration of the system. 
+ 
+ 
+Solution 
+ 
+Given: 
+ 
+m 
+= 
+200 kg 
+k 
+= 
+80 N/mm 
+c 
+= 
+800 N/m/s 
+ 
+The angular frequency of undamped vibrations (refer Equation (2.2)), 
+ 
+Þ 
+ 
+= 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+Þ 
+ 
+= 
+20.0 rad/s 
+ 
+ 
+The angular fr
+
+Chunk 114:
+equency of damped vibrations (refer Equation (2.21a)), 
+ 
+Þ 
+     = 
+ 
+ 
+ 
+     
+= 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+19.9 rad/s 
+ 
+ 
+Frequency of vibration of the system, 
+ 
+Þ 
+fd 
+= 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+3.17 Hz. 
+n
+w
+m
+k
+200
+10
+80
+3
+´
+d
+w
+(
+)
+2
+2
+a
+n
+-
+w
+(
+)
+2
+2
+2
+÷
+ø
+ö
+ç
+è
+æ
+-
+m
+c
+n
+w
+2
+2
+200
+2
+800
+)
+20
+(
+÷
+ø
+ö
+ç
+è
+æ
+´
+-
+p
+w
+2
+d
+p
+2
+9.
+19
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   24 
+ 
+EXAMPLE 2.4 
+ 
+The following data is given for a vibrat
+
+Chunk 115:
+ing system: 
+ 
+m 
+= 
+4.54 kg 
+k 
+= 
+5256 N/m 
+c 
+= 
+21 N.s/m 
+ 
+Determine (i) the logarithmic decrement, and (ii) the ratio of two consecutive amplitudes. 
+ 
+ 
+Solution 
+ 
+The natural undamped angular frequency is first determined, 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+34.0 rad/s 
+ 
+ 
+The critical damping coefficient, from Equation (2.15) is: 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+2 ´ 4.54 ´ 34.0 
+ 
+ 
+ 
+= 
+308.7 N.s/m 
+ 
+ 
+ Therefore, the damping ratio is calculated as, 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+0.068 
+ 
+ 
+ 
+
+Chunk 116:
+
+ 
+ 
+ 
+ 
+ 
+n
+w
+m
+k
+54
+.4
+5256
+cr
+c
+n
+mw
+2
+z
+cr
+c
+c
+7.
+308
+21
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                                   25 
+ 
+(i) 
+Logarithmic decrement,  
+ 
+d 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+ 
+ 
+= 
+0.428   
+ 
+ 
+ 
+ 
+(ii) 
+Ratio of two successive amplitudes 
+ 
+ 
+ 
+= 
+ed 
+ 
+ 
+= 
+e0.428 
+ 
+ 
+ 
+= 
+1.53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+1
+2
+V
+pV
+-
+2)
+068
+.0
+(
+1
+)
+068
+.0
+(
+2
+-
+p
+2
+1
+x
+x
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2
+
+Chunk 117:
+014 - 2024 
+ 
+ 
+ 
+ 
+                                   26 
+ 
+WORKSHEET (2.3) 
+ 
+An instrument vibrates with a frequency of 1 Hz when there is no damping. When the damping 
+is provided, the frequency of damped vibrations was observed to the 0.9 Hz. Find the, 
+ 
+(i) 
+damping factor, and 
+(ii) 
+logarithmic decrement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 2 
+ 
+ 
+David, N.V. © 2014 - 2024 
+ 
+ 
+ 
+ 
+                   
+
+Chunk 118:
+                27 
+ 
+WORKSHEET (2.4) 
+ 
+A mass suspended from a helical spring vibrates in a viscous fluid medium whose resistance 
+varies directly with the speed. It is observed that the frequency of damped vibration is 90 per 
+minute and that the amplitude decreases to 20 % of its initial value in one complete vibration. 
+Determine the frequency of the free undamped vibration of the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+– END – 
+
+Chunk 119:
+
+Kindly note that some of the words, phrases, texts or explanations found in this set of Lecture Notes (Chapter 3) are 
+extracted from the references mentioned in the MEC521 Course Outline Booklet with due honor.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universiti Teknologi MARA 
+ 
+Shah Alam 
+ 
+School of Mechanical Engineering 
+ 
+VIBRATIONS – MEC521 
+for 
+Bachelor of Eng. (Hons.) in Mechanical Engineering 
+ 
+ 
+ 
+LECTURE NOTES 
+ 
+CHAPTER 3 
+SINGLE DEGREE OF FREEDOM:  
+FORCED VIBRATION 
+ 
+ 
+THIS SET OF LECTURE NOTES COMPR
+
+Chunk 120:
+ISES TOPICS ON: 
+ 
+Ü Differential Equations 
+Ü Forced Response / Undamped System / Single-Frequency 
+Excitation and Resonance 
+Ü Forced Response / Damped System / Single-Frequency 
+Harmonic Excitation 
+Ü Rotating Unbalance / Harmonic Excitation of Support 
+Ü Transient Vibrations 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             2 
+3.1 
+Introduction 
+ 
+This chapter deals with the analysis of forced vibration of single DOF systems caused by single 
+freq
+
+Chunk 121:
+uency (harmonic) excitation. Forced vibrations of a 1-DOF system occur when work is 
+being done on the system while the vibrations occur. Examples of forced excitation include the 
+ground motion during an earthquake or the motion caused by an unbalanced reciprocating 
+machinery component or the motion of the machine itself. These excitations may not be desired 
+for machineries that require undisturbed operation (example?) or for reasons pertaining to the 
+structural safety when the vibrations am
+
+Chunk 122:
+plitude is amplified to the insupportable limit. The 
+effects of resonance in structures must be avoided and this is often achieved by using suitable 
+dampers or absorbers. Transient vibrations analysis is also briefly explored at the end of the 
+chapter. 
+ 
+ 
+3.2 
+Harmonic Excitation and Differential Equations 
+ 
+Figure 3.1 illustrates the model development for forced vibration of a linear single DOF system 
+with viscous damping when a linear displacement is chosen as the generalized coordinate
+
+Chunk 123:
+. 
+Application of Newton’s law to the FBDs shown in Figure 3.1(a) lead to the differential 
+equation governing the motion of the model system of Figure 3.1(b) as follows: 
+ 
+Þ 
+ 
+ 
+ 
+ 
+ 
+           ………(3.1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.1(a) A model of a linear single DOF system with linear displacement as generalized 
+coordinate. (FBD is shown on the right-hand side) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.1(b) Equivalent systems model of a linear single DOF system with linear 
+displacement as ge
+
+Chunk 124:
+neralized coordinate. 
+ 
+ 
+ 
+)
+(
+.
+..
+t
+F
+x
+k
+x
+c
+x
+m
+eq
+eq
+eq
+eq
+=
++
++
+The vibration of the pipeline that 
+you see in this video (scan the QR 
+above) can be modeled using the  
+mass-spring-damper system 
+shown in Figure 3.1(a) to the left.  
+ 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.1(c) Equivalent systems model of a linear single DOF system with angular 
+displacement as generalized coordinate. 
+ 
+ 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+
+Chunk 125:
+
+ 
+     External Forces  
+ 
+ 
+ 
+ 
+ Effective Forces 
+ 
+ 
+Figure 3.1(d) Free-Body-Diagram of model system of Figure 3.1 (b) at arbitrary instant. 
+ 
+ 
+ 
+If there exists a period of time, T, such that, 
+ 
+Þ 
+ 
+(at any moment of t) 
+ 
+then the excitation is periodic (or harmonic) since it replicates itself for every interval of T. 
+Figures 3.2(a) and 3.2(b) depicts some of the periodic excitation forms. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.2(a) Periodic Excitation: Sinusoidal Excitation. 
+ 
+ 
+)
+(
+)
+
+
+Chunk 126:
+(
+t
+F
+T
+t
+F
+eq
+eq
+=
++
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.2(b) Periodic Excitation: Repeated Triangular Pulses. 
+ 
+ 
+Therefore, the single frequency excitation has the form: 
+ 
+Þ 
+ 
+ 
+ 
+ 
+                      ………(3.2) 
+ 
+where FO is the amplitude of the excitation, w, is its angular frequency and y, is its phase. 
+ 
+ 
+Substituting Feq(t) from Equation (3.2) into Equation (3.1) yields another form of the 
+differentia
+
+Chunk 127:
+l equation of motion of the system; 
+ 
+Þ 
+  
+ 
+ 
+           ………(3.3) 
+ 
+ 
+Dividing Equation (3.3) above by meq leads to the standard form of the differential equation of 
+forced vibrations (of a linear, single DOF system): 
+ 
+ 
+Þ 
+ 
+ 
+ 
+ 
+           ………(3.4) 
+ 
+ 
+The general solution of Equation (3.3) or the standard form as in Equation (3.4) is the sum of 
+the homogenous solution (i.e. the solution obtained if the right-hand side is set to zero) and 
+the particular solution (depends on the form
+
+Chunk 128:
+ of Feq(t)). The presence of the homogenous 
+solution in the general solution leads to an initial transient motion (virtually caused by 
+undamped vibrations), which quickly decays. This is followed by steady-state response of the 
+linear system, which depends on the particular solution. 
+ 
+ 
+At this juncture, kindly take note of the following points: 
+ 
+§ 
+The frequency of the excitation is independent of (or NOT affected by) the system’s 
+natural frequency.  
+§ 
+The nature of forced vibrations 
+
+Chunk 129:
+is that the system of concern will be forced to vibrate 
+at the excitation frequency. 
+§ 
+The differential equation governing forced vibrations of a single DOF system can be 
+derived by the FBD method. (Equivalent systems method is also applicable as well.) 
+§ 
+The excitation forces are non-conservative (could be transformed to other possible 
+forms of energy during or after excitation). 
+)
+sin(
+)
+(
+y
+w +
+=
+t
+F
+t
+F
+O
+eq
+)
+sin(
+.
+..
+y
+w +
+=
++
++
+t
+F
+x
+k
+x
+c
+x
+m
+O
+eq
+eq
+eq
+)
+(
+1
+2
+2
+.
+..
+t
+F
+m
+x
+x
+
+
+Chunk 130:
+x
+eq
+eq
+n
+n
+=
++
++
+w
+zw
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             5 
+3.3 
+Forced Response / Undamped System / HARMONIC EXCITATION 
+ 
+The differential equation for undamped forced vibration of a 1-DOF system subject to a single-
+frequency harmonic excitation in the form of Equation (3.2) is: 
+ 
+ 
+Þ 
+ 
+ 
+ 
+ 
+                      ………(3.5) 
+ 
+ 
+If , 
+ (i.e. excitation frequency do not coincide with the system’s natural frequency), 
+the  particular solution
+
+Chunk 131:
+  of Equation (3.5) is: 
+ 
+ 
+Þ 
+  
+ 
+                      ………(3.6) 
+ 
+ 
+Equation (3.6) is the model of the steady-state response of the system concerned. The 
+homogenous solution is: 
+ 
+ 
+Þ 
+ 
+           ………(3.7) 
+ 
+ 
+for z < 1. Both of the solutions are added and initial conditions applied to obtain the general 
+solution 
+ 
+ 
+ 
+ 
+Þ 
+ 
+           
+ 
+ 
+ 
+ 
+               ………(3.8) 
+ 
+ 
+The response is shown Figure 3.3.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+)
+sin(
+2
+..
+y
+w
+w
++
+=
++
+t
+m
+F
+x
+x
+eq
+O
+n
+n
+ex
+w
+w
+¹
+)
+
+
+Chunk 132:
+sin(
+)
+(
+)
+(
+2
+2
+y
+w
+w
+w
++
+-
+=
+t
+m
+F
+t
+x
+ex
+n
+eq
+O
+p
+[
+])
+1
+sin(
+)
+1
+cos(
+)
+(
+2
+2
+2
+1
+t
+C
+t
+C
+e
+t
+x
+n
+n
+t
+n
+z
+w
+z
+w
+zw
+-
++
+-
+=
+-
+h
+)
+sin(
+)
+(
+)
+sin(
+)
+(
+cos
+1
+)
+cos(
+)
+(
+sin
+)
+(
+2
+2
+2
+2
+.
+2
+2
+y
+w
+w
+w
+w
+w
+w
+y
+w
+w
+w
+w
+w
+y
++
+-
++
+ú
+ú
+û
+ù
+ê
+ê
+ë
+é
+-
+-
++
+ú
+ú
+û
+ù
+ê
+ê
+ë
+é
+-
+-
+=
+t
+m
+F
+t
+m
+F
+x
+t
+m
+F
+x
+t
+x
+ex
+n
+eq
+O
+n
+ex
+n
+eq
+O
+n
+n
+ex
+n
+eq
+O
+O
+O
+          
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.3 Response 
+
+Chunk 133:
+of an undamped system to a single-frequency harmonic excitation when 
+wex < wn. 
+ 
+ 
+3.3.1 
+Resonance 
+ 
+The response curve provided in Figure 3.3 is the sum of two trigonometric terms, wex < wn, 
+hence of different frequencies. But if wex = wn, then the case is special. The response of a system 
+in which the excitation frequency equals the natural frequency grows without bounds, as shown 
+in Figure 3.4. This condition, where the amplitude increases unlimitedly, is termed resonance. 
+However, in
+
+Chunk 134:
+ a real physical system, the amplitude is bounded. In many cases, as the amplitude 
+grows, assumptions (such as?) used in modeling the physical system become invalid.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.4 Undamped response when excitation frequency coincides the natural frequency of 
+the system. The response grows without bound producing resonance. 
+Resonance is an important concept in the study of undamped forced vibration! 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+
+
+Chunk 135:
+ 
+ 
+ 
+ 
+ 
+ 
+             7 
+For instance, in a system with an elastic element (example?), the proportional limit of the 
+spring’s material is eventually reached. After this time, the motion of the system is governed 
+by a non-linear differential equation reflecting the non-linear force-displacement relation (i.e. 
+Hooke’s Law) of the spring. 
+ 
+For a system such as pendulum in which small displacement assumption (
+) is used 
+to linearize the governing differential equation, the assumption become
+
+Chunk 136:
+s invalid when 
+resonance occurs (q  is great). The original non-linear differential equation must be used in the 
+case of resonance analysis.  
+ 
+Resonance is a dangerous condition in a mechanical or structural system and will produce 
+unwanted large displacements or leads to failure. Resonance can also lead to unwanted large-
+amplitude vibrations in machinery. 
+ 
+ 
+Case Study  
+ 
+Background 
+ 
+The Tacoma Narrows Bridge was the third largest suspension span bridge in the world and 
+opened with 
+
+Chunk 137:
+much fanfare on July 1, 1940. The center span, measuring 2,800 ft, stretched 
+between two 425 ft high towers, while the side spans were each 1,100 ft long. The suspension 
+cables hung from the towers and were anchored 1000 ft back towards the riverbanks. The 
+designer, Leon Moisseiff, was one of the world’s foremost bridge designers. He and his partner 
+Fred Lienhard had earlier developed the calculations for determining load and wind forces used 
+by bridge designers everywhere.  
+ 
+Cause of the
+
+Chunk 138:
+ Disaster 
+ 
+Resonant torsional oscillations were partially the cause of the famous Tacoma Narrows Bridge 
+disaster (refer Figure 3.5). It is suspected that the frequency at which vortices were shed from 
+the bridge coincided with a torsional natural frequency, leading to oscillations that grew 
+without bound. Recent investigations revealed that non-linear phenomena resulting from 
+improper installation may have also played a role in the disaster.  
+ 
+ 
+Quick Assignment 
+ 
+Prepare a brief report
+
+Chunk 139:
+ (not more than 15 pages) comprising these issues: 
+ 
+(a) Design of the Tacoma Narrows Bridge (with illustrations). 
+ 
+(b) Details of the Collapse. (Elaborate on the possible causes with engineering 
+justifications.) 
+ 
+(c) Impact and Remedial Actions. 
+ 
+(d) Latest development or technology used in construction of bridge structures to avoid 
+resonance induced failure. 
+ 
+Format 
+Times New Roman, 12pt, A4 size, justified alignment, unique cover page with names and 
+UiTM I.D. of the members, and 
+
+Chunk 140:
+comb-binding. No UiTM logo is permitted on cover page. 
+ 
+q
+q »
+sin
+For ODL mode, you may do it at your convenience.  
+No submission needed! 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.5(a) The twisting motion of the bridge caused metal fatigue, resulting in the 
+collapse on November 7, 1940. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.5(b) The center span of the Tacoma Narrows Bridge writhes
+
+Chunk 141:
+ under a gale force 
+wind just before collapsing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             9 
+3.3.2 
+Beating 
+ 
+When vibrations of a conservative system are initiated, the motion is sustained at the system’s 
+natural frequency without additional energy input. Thus, when the frequency of excitation is 
+the same as the natural frequency, the work done by the external force is not needed to sustain 
+motion. The total energy increases bec
+
+Chunk 142:
+ause of the work input and leads to a continual increase 
+in amplitude.  
+ 
+When the frequency of excitation is different from the natural frequency, the work done by the 
+external force is necessary to sustain motion at the excitation frequency. 
+ 
+When the excitation frequency is close, but not exactly equal, to the natural frequency, an 
+interesting phenomenon called beating occurs. Beating is a continuous buildup and decrease of 
+amplitude as shown in Figure 3.6. When vex is very close to vn
+
+Chunk 143:
+ and 
+and y = 0, 
+Equation (3.8) becomes: 
+ 
+ 
+Þ 
+            ………(3.9) 
+ 
+ 
+From Equation (3.9), since 
+ is small, the solution can be viewed as a cosine wave 
+with a slowly varying amplitude. The period of the amplitude is called the period of the beating 
+and equals 2p /
+. The period of vibration is 4p /
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.6 Beating: Continuous build-up and decrease of amplitude. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+.
+=
+=
+O
+O
+x
+x
+úû
+ù
+êë
+é
+÷
+ø
+ö
+ç
+è
+æ
++
+úû
+ù
+êë
+é
+÷
+ø
+ö
+ç
+è
+æ
+-
+-
+=
+t
+
+Chunk 144:
+
+t
+m
+F
+t
+x
+n
+ex
+n
+ex
+ex
+n
+eq
+O
+.
+2
+cos
+.
+2
+sin
+)
+(
+2
+)
+(
+2
+2
+w
+w
+w
+w
+w
+w
+n
+ex
+w
+w
+-
+)
+(
+n
+ex
+w
+w
+-
+)
+(
+n
+ex
+w
+w
++
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             10 
+3.4 
+Forced Response / Damped System / HARMONIC EXCITATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.7(a) A model of a linear single DOF system with linear displacement as generalized 
+coordinate. (FBD is shown on the right-hand side.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.7(b) Vector relati
+
+Chunk 145:
+onship for forced vibration with damping. 
+ 
+ 
+Equation (3.3) (or its standard form as in Equation (3.4)) gives the differential equation of 
+motion of the system shown in Figure 3.7(a) as follows: 
+ 
+Þ 
+ 
+ 
+ 
+Only the long-term characteristic is of interest for most systems enduring harmonic excitation. 
+As t à ¥, the homogenous solution of Equation (3.4) converges to zero and therefore only the 
+forced response remains. Thus, for harmonic excitation, the free vibration response is neglected 
+a
+
+Chunk 146:
+nd only the forced response (or the steady-state response) is considered.  
+ 
+ 
+ 
+ 
+ 
+)
+sin(
+.
+..
+y
+w +
+=
++
++
+t
+F
+x
+k
+x
+c
+x
+m
+O
+eq
+eq
+eq
+mw2X 
+cwX 
+kX 
+wt 
+X 
+FO 
+f 
+reference 
+Case 1: Direct Force 
+(harmonic excitation) 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             11 
+The particular solution (steady-state response) for Equation (3.3) is, 
+ 
+ 
+Þ 
+ 
+ 
+ 
+   
+ 
+           ………(3.10) 
+ 
+ 
+where X  is the amplitude of the forced response and f  is the phase an
+
+Chunk 147:
+gle between the response 
+and the excitation. 
+ 
+Figure 3.7(b) above clearly indicate that the velocity and acceleration vectors succeed the 
+displacement by 90° and 180° phase difference, respectively. Based on this relationship, 
+ 
+ 
+ 
+Þ 
+  
+ 
+ 
+ 
+           ………(3.11) 
+ 
+ 
+ 
+or its alternate form; 
+ 
+ 
+Þ 
+ 
+  
+ 
+           ………(3.12) 
+ 
+ 
+and, 
+ 
+ 
+ 
+Þ 
+  
+ 
+  
+ 
+         
+           ………(3.13) 
+ 
+ 
+ 
+or 
+ 
+ 
+Þ 
+ 
+ 
+   
+ 
+         
+           ………(3.14) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+)
+sin[(
+)
+(
+f
+y
+w
+-
++
+
+
+Chunk 148:
+=
+t
+X
+t
+x p
+2
+2
+2
+)
+(
+)
+(
+w
+w
+c
+m
+k
+F
+X
+O
++
+-
+=
+2
+2
+2
+2
+)
+2
+(
+)
+(
+n
+ex
+ex
+n
+eq
+O
+m
+F
+X
+w
+zw
+w
+w
++
+-
+=
+÷
+ø
+ö
+ç
+è
+æ
+-
+=
+-
+2
+1
+tan
+w
+w
+f
+m
+k
+c
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+=
+-
+2
+2
+1
+2
+tan
+ex
+n
+n
+ex
+w
+w
+w
+zw
+f
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             12 
+The amplitude and phase angle provide crucial information about the forced response. Better 
+qualitative interpretation of the response could be obtained by formulating Equations (3.11) and 
+(3.12) in non-dimensional 
+
+Chunk 149:
+form. It is noted from these equations that, 
+ 
+Þ 
+X  =  f(FO, meq, wex, wn, z), and 
+ 
+f  =  f(wex, wn, z). 
+ 
+Three basic dimensions are used in these parameters i.e. mass (meq), length (X) and time (w).  
+ 
+Multiplying Equation (3.12) by 
+ (or dividing Equation (3.11) with k) gives: 
+ 
+Þ 
+ 
+ 
+ 
+           ………(3.15) 
+ 
+ 
+and 
+ 
+ 
+Þ 
+ 
+ 
+   
+ 
+         
+                       ………(3.16) 
+ 
+ 
+where   
+ 
+ 
+ 
+   
+ 
+         
+                       ………(3.17) 
+ 
+is termed as the frequency ratio. 
+ 
+ 
+
+Chunk 150:
+
+The ratio 
+ 
+ 
+M = 
+ or 
+ 
+ 
+ 
+is dimensionless (check it out!) and called the amplitude ratio or magnification factor. It can 
+be taken to mean as the ratio of the amplitude of forced response to the amplitude of excitation. 
+However, a more direct physical interpretation is that of the maximum force developed in the 
+spring of a mass-spring-dashpot system to the maximum value of the exciting force. Thus, the 
+non-dimensional form of Equation (3.12) is: 
+ 
+ 
+Þ 
+ 
+ 
+ 
+                       ………
+
+Chunk 151:
+(3.18) 
+ 
+ 
+O
+n
+eq
+F
+m
+2
+w
+2
+2
+2
+2
+)
+2
+(
+)
+1(
+1
+r
+r
+F
+Xk
+F
+X
+m
+O
+O
+n
+eq
+z
+w
++
+-
+=
+=
+÷
+ø
+ö
+ç
+è
+æ
+-
+=
+-
+2
+1
+1
+2
+tan
+r
+r
+z
+f
+n
+ex
+r
+w
+w
+=
+O
+n
+eq
+F
+X
+m
+2
+w
+O
+F
+Xk
+2
+2
+2
+)
+2
+(
+)
+1(
+1
+)
+,
+(
+r
+r
+r
+M
+z
+z
++
+-
+=
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             13 
+These equations show that the non-dimensional amplitude (X) and phase (f) are functions of 
+the frequency ratio, r and damping ratio, z. The magnification factor as a function of frequency 
+ratio for differen
+
+Chunk 152:
+t values of damping ratio is shown in Figure 3.8 below. These curves are called 
+frequency response curves. The frequency response curves shows that the damping ratio has 
+great influence on the amplitude and phase angle especially in the vicinity of resonance 
+frequencies (i.e. r = 1).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.8 Frequency response curves based Equations (3.15) and (3.16). 
+ 
+ 
+The analysis of frequency response characteristics of the system concerned based on    
+
+Chunk 153:
+           
+Figure 3.8 above can be categorized according to the ranges of frequency ratio, r i.e. r << 1, r 
+= 1 and r >> 1. The corresponding force diagrams for each case are provided in Figure 2.20. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.9 The vector relationships in forced vibration analysis for different r ranges. 
+ 
+ 
+ 
+ 
+ 
+Frequency ratio 
+Frequency ratio 
+.
+.
+.
+1
+2
+3
+r = 1
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             14 
+Case I:  r << 1  [Figure 3.9(
+
+Chunk 154:
+a)] 
+ 
+The inertial element (mass) and damping element are small, producing small phase angle, f. 
+The magnitude of the external force, FO and elastic force, kX is almost identical. 
+ 
+ 
+Case II: r = 1   [Figure 3.9(b)] 
+ 
+The phase angle for this case is 90°. The damping force equalizes the increment of the inertial 
+force. The magnitude of the force, FO is greater than the dampening force, cwX. The value of 
+the amplitude at resonance (wex = wn) can be obtained from Equation (3.15) as follows:
+
+Chunk 155:
+ 
+ 
+ 
+Þ 
+ 
+ 
+ 
+             
+ 
+           ………(3.19) 
+ 
+ 
+Case III: r >> 1  [Figure 3.9(c)] 
+ 
+The phase angle for this case is 180°. The magnitude of the external force, FO is utilized to 
+overcome the high inertial force. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+k
+F
+c
+F
+X
+O
+n
+O
+.
+.2
+.
+z
+w
+=
+=
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             15 
+Further Details And Explanations 
+ 
+Apart from the information obtained from Figure 3.9 abo
+
+Chunk 156:
+ve, the following details applies to the 
+frequency response curves as shown in Figure 3.10 below: 
+ 
+§ 
+M = 1 when r = 0 
+In this case, the excitation force is a constant and the maximum force developed in the 
+spring of a mass-spring-dashpot system is equal to the value of the exciting force. 
+ 
+§ 
+M à 0 when r à ¥ 
+In this case, the amplitude of the forced response is very small for high-frequency 
+excitations. 
+ 
+§ 
+For a given value of r, M decreases with increasing z. 
+§ 
+For 0 < z  £ 1/
+,
+
+Chunk 157:
+ the maximum value of the magnification factor occurs for a frequency 
+ratio of 
+ 
+Þ  
+  
+ 
+ 
+ 
+ 
+           ………(3.20) 
+ 
+Equation (3.20) is obtained from Equation (3.18) by determining the value of r such that 
+dM/dr = 0. 
+ 
+§ 
+The corresponding maximum value of M is, 
+ 
+Þ  
+ 
+ 
+ 
+ 
+ 
+           ………(3.21) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.10 Magnification factor versus frequency ratio for different damping ratios. 
+ 
+2
+2
+2
+1
+z
+-
+=
+mr
+2
+max
+1
+2
+1
+z
+z
+-
+=
+M
+VIBRATIONS MEC521
+
+Chunk 158:
+ – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             16 
+The phase angle is plotted as a function of frequency ratio for different values of the damping 
+ratio in Figure 3.11.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.11 Phase angle versus frequency ratio for different damping ratios. 
+ 
+ 
+§ 
+The forced response and the excitation force are in phase for z  = 0. For z > 0, the response 
+and excitation are in phase only for r = 0. 
+ 
+§ 
+If z > 0 and 0 < r < 1, then 0 < f  < p /2
+
+Chunk 159:
+.  
+The response lags the excitation as shown in Figure 3.12. 
+ 
+§ 
+If z > 0 and r = 1, then f  = p /2. If y = 0, then the excitation is a pure sine wave while the 
+steady-state response is a pure cosine wave.  
+The excitation is in phase with the velocity. The direction of the excitation is always the 
+same as the direction of motion. 
+ 
+§ 
+If z > 0 and r > 1, then p /2 < f  < p.  
+The response leads the excitation as shown in Figure 3.13. 
+ 
+§ 
+If z > 0 and r >> 1, then f » p. The sign of the 
+
+Chunk 160:
+steady-state response is opposite to that of 
+the excitation. 
+ 
+§ 
+If z = 0,  
+r < 1: the response is in phase with excitation.  
+r > 1: the response is p radians out of phase (f  = 180°) from the excitation.  
+(Sketch the curves!) 
+ 
+For an undamped system (i.e. z  =  0), 
+ 
+ 
+Þ  
+ 
+ 
+ 
+           ………(3.22) 
+ 
+ 
+ 
+2
+2
+2
+1
+1
+)
+1(
+1
+)
+0,
+(
+r
+r
+r
+M
+-
+=
+-
+=
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3
+
+Chunk 161:
+.12 Forced steady-state response lags excitation, for r < 1 (wex < wn). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.13 Forced steady-state response leads excitation, for r > 1 (wex > wn). 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             18 
+EXAMPLE 3.1 
+ 
+A machine of mass 25.0 kg is placed on an elastic foundation. A sinusoidal force of magnitude 
+25 N is applied to the machine. A frequency sweep reveals that the maximum steady-sta
+
+Chunk 162:
+te 
+amplitude of 1.3 mm occurs when the period of response is 0.22 s. Determine the equivalent 
+stiffness and damping ratio of the foundation. 
+ 
+ 
+Solution 
+ 
+The system is modeled as a mass attached to a spring and dashpot in parallel with an applied 
+sinusoidal force of magnitude 25 N. For a linear system, the frequency of response is the same 
+as the frequency of excitation.  
+ 
+Thus, the maximum response occurs for a period of 
+ 
+Þ 
+ 
+= 
+0.22 s 
+ 
+\ 
+wex 
+= 
+28.6 rad/s 
+ 
+ 
+From Equation (3
+
+Chunk 163:
+.20), the maximum response occurs when 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+Þ 
+wn  
+= 
+ 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+Based on Equation (3.21) and the formula for magnification factor shown on p. 12 above, 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+Þ 
+ 
+= 
+ 
+ 
+ 
+ex
+w
+p
+2
+n
+ex
+w
+w
+2
+2
+1
+z
+-
+2
+2
+1
+z
+w
+-
+ex
+2
+2
+1
+/
+6.
+28
+z
+-
+s
+rad
+O
+n
+eq
+F
+X
+m
+2
+w
+2
+1
+2
+1
+z
+z
+-
+N
+m
+kg
+n
+25
+)
+0013
+.0
+)(
+0.
+25
+(
+2
+w
+2
+1
+2
+1
+z
+z
+-
+… (1)
+… (2)
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             19 
+Substitution for wn yields, 
+ 
+Þ 
+ 
+= 
+ 
+ 
+
+Chunk 164:
+
+ 
+Squaring the preceding equation and rearranging gives: 
+ 
+Þ 
+ 
+= 
+0 
+ 
+ 
+Quadratic formula is used to solve for z2 . 
+ 
+Þ  
+z 
+= 
+0.368   or   0.930 
+ 
+ 
+The value z  = 0.368  is selected while the other value, 0.930, is discarded (why?). The natural 
+frequency is, 
+ 
+Þ 
+wn  
+= 
+ 
+ 
+ 
+ 
+= 
+33.5 rad/s. 
+ 
+ 
+The stiffness of the elastic foundation is, 
+ 
+Þ 
+k 
+= 
+mwn2 
+ 
+ 
+= 
+(25.0)(33.5)2 
+ 
+ 
+= 
+2.80 (E+04) N/m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+2
+1
+063
+.1
+z
+-
+2
+1
+2
+1
+z
+z
+-
+117
+.0
+2
+
+Chunk 165:
+
+4
++
+-z
+z
+2)
+368
+.0
+(
+2
+1
+/
+6.
+28
+-
+s
+rad
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             20 
+WORKSHEET (3.1) 
+ 
+A machine part of mass 2 kg vibrates in a viscous medium. Determine the damping coefficient 
+when a harmonic exciting force of 25 N results in resonant amplitude of 12.5 mm with a period 
+of 0.2 s. If the system is excited by a harmonic force of frequency 4 Hz, what will be the 
+percentage increase in the amplitude of vibration when damper is remo
+
+Chunk 166:
+ved as compared with 
+that with damping. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             21 
+3.5 
+Forced Response / Damped System / ROTATING UNBALANCE 
+ 
+Forced vibration of rotating machinery is often caused by unbalanced rotation of its components 
+(or elements). The machine of Figure 3.14 has a component that rotates at a constant speed, w. 
+Its center of mass i
+
+Chunk 167:
+s located a distance, e, called the eccentricity, from the axis of rotation (the 
+mass center do not coincide with the axis of rotation. The mass of the rotating element is, say, 
+m, while the total mass of the machine (system) is M. The motion of the machine is constrained 
+to one DOF vertically (why?). The acceleration of the rotating element relative to the machine 
+is mew2 directed from the mass center of the element to its axis of rotation (center point). Since 
+the location of the element’
+
+Chunk 168:
+s mass center changes as the element rotates, the direction of the 
+element’s acceleration also varies. The FBD shown in Figure 3.15 below indicates the external 
+forces in action as well as that experienced internally by the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.14 Rotating unbalance produces harmonic excitation whose amplitude is 
+proportional to the magnitude of the unbalance and to the square of is angular speed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.15 Free-Body Diagrams
+
+Chunk 169:
+ of machine with rotating unbalance at an arbitrary instant. 
+ 
+ 
+ 
+ 
+Case 2: Indirect Force 
+(rotating imbalance) 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             22 
+Let the deflection of the non-rotating mass (M – m) from the static equilibrium position is x. 
+Deflection of the element m is, 
+ 
+Þ 
+x + e.sinwt 
+ 
+ 
+Equation of motion is given by: 
+ 
+Þ 
+ 
+= 
+ 
+ 
+which can be rearranged as: 
+ 
+ 
+Þ 
+  
+= 
+  
+ 
+           ………(3.23) 
+ 
+ 
+It can be observed that
+
+Chunk 170:
+ Equation (3.23) is similar to Equation (3.3) except that FO is substituted 
+with mew2. Therefore, the steady-state (particular) solution is, 
+ 
+ 
+Þ 
+X 
+= 
+ 
+ 
+ 
+           ………(3.24) 
+ 
+and 
+ 
+ 
+Þ 
+tan f 
+= 
+ 
+ 
+ 
+            
+           ………(3.25) 
+ 
+ 
+The equations above can be reduced to non-dimensional forms as follows: 
+ 
+ 
+Þ 
+ = 
+ 
+ 
+           ………(3.26) 
+ 
+and 
+ 
+Þ 
+tan f 
+= 
+  
+   
+      
+                       ………(3.27) 
+)
+sin
+(
+)
+(
+2
+2
+..
+t
+e
+x
+dt
+d
+m
+x
+m
+M
+w
++
++
+-
+.
+x
+c
+kx -
+-
+kx
+x
+c
+x
+
+Chunk 171:
+
+M
++
++
+.
+..
+t
+me
+w
+w
+sin
+)
+(
+2
+)
+(
+)
+(
+2
+2
+2
+2
+w
+w
+w
+c
+M
+k
+me
++
+-
+2
+w
+w
+M
+k
+c
+-
+me
+MX
+2
+2
+2
+2
+2
+1
+ú
+û
+ù
+ê
+ë
+é
+÷÷
+ø
+ö
+çç
+è
+æ
++
+ú
+ú
+û
+ù
+ê
+ê
+ë
+é
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+÷÷
+ø
+ö
+çç
+è
+æ
+n
+ex
+n
+ex
+n
+ex
+w
+w
+z
+w
+w
+w
+w
+÷
+÷
+÷
+÷
+÷
+ø
+ö
+ç
+ç
+ç
+ç
+ç
+è
+æ
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+÷÷
+ø
+ö
+çç
+è
+æ
+2
+1
+2
+n
+ex
+n
+ex
+w
+w
+w
+w
+z
+2
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             23 
+The frequency response curve for rotating unbalance of forced vibrations is provided in Figure 
+3.16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Chunk 172:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.16 Frequency response curves based Equations (3.24) and (3.25). 
+ 
+ 
+ 
+The general solution is provided by: 
+ 
+ 
+Þ 
+x(t)     =     
+ 
+ 
+………(3.28) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[
+]
+)
+sin(
+)
+(
+)
+(
+)
+1
+sin(
+2
+2
+2
+2
+1
+2
+1
+f
+w
+w
+w
+w
+f
+w
+z
+zw
+-
++
+-
++
++
+-
+-
+t
+c
+M
+k
+me
+t
+e
+X
+n
+t
+n
+Frequency ratio 
+Frequency ratio 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             24 
+EXAMPLE 3.2 
+ 
+An exciter consisting two mass elements of mass
+
+Chunk 173:
+, m, rotating in opposite directions is mounted 
+on a machine of mass, M, supported by springs as shown in Figure 3.17. By changing the 
+rotational velocity, the resonant amplitude was measured as 0.06 cm. When the rotational 
+velocity of the elements is increased beyond the resonance frequency, the amplitude becomes 
+and remained at 0.08 cm. Determine the damping factor of the system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.17 The imbalance rotating system of Example 3.2. 
+ 
+ 
+Solution 
+ 
+At 
+
+Chunk 174:
+resonance condition, 
+ =  r  = 1. From Equation (3.26), the resonance amplitude is, 
+ 
+Þ 
+X 
+= 
+ 
+ 
+ 
+ 
+= 
+0.06 cm                           
+ 
+ 
+……(i) 
+ 
+ 
+When wex >> wn (r >> 1), the same equation becomes: 
+ 
+Þ 
+X 
+= 
+ 
+ 
+ 
+ 
+= 
+0.08 cm  
+ 
+ 
+ 
+ 
+……(ii) 
+ 
+ 
+Solving equation (i) and (ii) simultaneously, 
+ 
+\ 
+z 
+= 
+ 
+ 
+ 
+ 
+= 
+0.667 
+÷÷
+ø
+ö
+çç
+è
+æ
+n
+ex
+w
+w
+z
+M
+me
+2
+M
+me
+06
+.0
+2
+08
+.0
+´
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             25 
+3.6 
+Forced Respons
+
+Chunk 175:
+e / Damped System / BASE MOTION 
+ 
+In most cases, the motion of the support excites a dynamic system. Consider the mass-spring-
+dashpot system of Figure 3.18 (a). The spring and dashpot are in parallel with one end of each 
+connected to the mass and the other end of each connected to a moveable support. Let y(t) 
+represent the known displacement of the support and let x(t) represent the absolute displacement 
+of the mass. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.18(a) Block is connected through spr
+
+Chunk 176:
+ing and viscous damper in parallel to moveable 
+support. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.18(b) FBD at an arbitrary instant including effects of support displacement, y(t). 
+ 
+ 
+ 
+Application of Newton’s law to the FBD of Figure 3.18(b) yields 
+ 
+Þ 
+ = 
+ 
+ 
+ 
+Rearranging the parameters, 
+ 
+Þ 
+      
+= 
+ 
+ 
+ 
+           ………(3.29) 
+ 
+ 
+ 
+)
+(
+)
+(
+.
+.
+y
+x
+c
+y
+x
+k
+-
+-
+-
+-
+..
+x
+m
+kx
+x
+c
+x
+m
++
++
+.
+..
+ky
+y
+c +
+.
+Case 3: Indirect Force 
+(support motion) 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V
+
+Chunk 177:
+. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             26 
+Substitute the relative displacement (dependent variable) of the mass (system) to its support; 
+ 
+ 
+Þ 
+z(t)     = 
+x(t)  –  y(t) 
+ 
+ 
+             
+           ………(3.30) 
+ 
+ 
+into Equation (3.36). 
+ 
+Þ 
+ =     
+ 
+             
+             
+           ………(3.31) 
+ 
+ 
+ 
+ 
+=     
+ 
+ 
+             
+           ………(3.32) 
+ 
+ 
+where y(t) = Y.sin(wext) is the simple harmonic motion form of the base (support) displacement. 
+ 
+ 
+Dividing Equation (3.39) by m giv
+
+Chunk 178:
+es, 
+ 
+ 
+Þ 
+     =      
+ 
+             
+           ………(3.33) 
+ 
+Equation (3.33) shows that a mass-spring-dashpot system subject to harmonic base motion is 
+another instance in which the magnitude of a harmonic excitation is proportional to the square 
+of its frequency. The form of this equation is somewhat similar to that of Equation (3.23) except 
+that the variable z and mw2Y replace x and mew2, respectively. Therefore, the solution of 
+Equation (3.33) is given by: 
+ 
+Þ 
+z(t) 
+= 
+Z.sin(wt – f)
+
+Chunk 179:
+ 
+ 
+ 
+Þ 
+Z 
+= 
+ 
+ 
+ 
+           ………(3.34) 
+ 
+ 
+Þ 
+tan f 
+= 
+ 
+ 
+ 
+            
+           ………(3.35) 
+ 
+ 
+for which the frequency response curves is similar to that provided in Figure 3.16 above with 
+appropriate changes in the ordinate.  
+ 
+ 
+ 
+ 
+ 
+kz
+z
+c
+z
+m
++
++
+.
+..
+..
+y
+m
+-
+t
+Y
+m
+ex
+w
+w
+sin
+2
+z
+z
+z
+n
+n
+2
+.
+..
+2
+w
+zw
++
++
+t
+Y
+ex
+ex
+w
+w
+sin
+2
+)
+(
+)
+(
+2
+2
+2
+2
+w
+w
+w
+c
+m
+k
+Y
+m
++
+-
+2
+w
+w
+m
+k
+c
+-
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             27 
+If the absolute
+
+Chunk 180:
+ displacement of the mass, x(t) is to be determined, we can use                        x(t)  
+=   z(t)  + y(t).  Using the exponent form of harmonic motion, 
+ 
+Þ 
+y(t) 
+= 
+Yeiwt 
+ 
+Þ 
+z(t) 
+= 
+Zei(wt-f) 
+ 
+ 
+= 
+(Ze -if)eiwt 
+ 
+Þ 
+x(t) 
+= 
+Xei(wt-y) 
+ 
+ 
+= 
+(Xe -iy)eiwt 
+ 
+ 
+Substituting into Equation (2.59), we obtain, 
+ 
+ 
+Þ 
+Ze -if 
+= 
+ 
+ 
+ 
+                       ………(3.36)  
+ 
+ 
+and 
+ 
+ 
+Þ 
+x(t) 
+= 
+(Ze -if + Y)eiwt 
+ 
+ 
+ 
+= 
+ 
+ 
+ 
+           ………(3.37)  
+ 
+ 
+ 
+Amplitude of the [amplitude of t
+
+Chunk 181:
+he absolute displacement of the mass (X) to the amplitude of 
+displacement of the support (Y)] ratio is given by: 
+ 
+ 
+Þ 
+ 
+= 
+ 
+            
+           ………(3.38) 
+ 
+ 
+ 
+= 
+  
+ 
+ 
+           ………(3.39) 
+ 
+ 
+Multiplying the numerator and denominator of Equation (3.39) by wex2 represents the ratio of 
+the amplitude of absolute acceleration of the mass to the amplitude of acceleration of the 
+support (base), AX , as given below: 
+ 
+ 
+Þ 
+AX 
+= 
+(Ywex2). 
+           
+ 
+           ………(3.40) 
+ 
+ 
+c
+i
+m
+
+
+Chunk 182:
+k
+Y
+m
+w
+w
+w
++
+-
+2
+2
+t
+i
+Ye
+c
+i
+m
+k
+c
+i
+k
+w
+w
+w
+w
+.
+2
+÷
+ø
+ö
+ç
+è
+æ
++
+-
++
+Y
+X
+2
+2
+2
+2
+2
+)
+(
+)
+(
+)
+(
+c
+m
+k
+c
+k
+w
+w
+w
++
+-
++
+2
+2
+2
+2
+)
+2
+(
+)
+1(
+)
+2
+(
+1
+r
+r
+r
+z
+z
++
+-
++
+2
+2
+2
+2
+)
+2
+(
+)
+1(
+)
+2
+(
+1
+r
+r
+r
+z
+z
++
+-
++
+[non-dimensional form, T(r,z)] 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             28 
+The phase angle of the [amplitude of the absolute displacement of the mass (X) to the amplitude 
+of displacement of the support (Y)] ratio is given by: 
+ 
+ 
+Þ 
+tan y 
+= 
+  
+
+
+Chunk 183:
+            
+           ………(3.41) 
+ 
+ 
+ 
+ 
+= 
+      
+ 
+ 
+ 
+           ………(3.42) 
+ 
+ 
+Equation (3.39) is graphically illustrated in Figure 3.19. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.19 Frequency response curves based Equations (2.66) and (2.69). 
+ 
+ 
+It can be noted from Figure 3.19 that: 
+ 
+§ 
+For any value of z , 
+ = 1 when r = 
+  thus, T(
+,z) = 1. 
+ 
+§ 
+For r < 
+, T(r,z) is larger for smaller values of z . (What happens for r > 
+?) 
+ 
+ 
+§ 
+For all values of z , T(r,z) is <
+
+Chunk 184:
+ 1 when and only when r > 
+. 
+ 
+ 
+2
+2
+3
+)
+(
+)
+(
+c
+m
+k
+k
+mc
+w
+w
+w
++
+-
+2
+2
+3
+)1
+4
+(
+1
+2
+r
+r
+-
++
+z
+z
+Y
+X
+2
+2
+2
+2
+2
+Frequency ratio 
+Frequency ratio 
+VIBRATIONS MEC521 – CHAPTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             29 
+3.7 
+Transmissibility 
+ 
+The force applied or induced by rotating imbalance will be transmitted to the foundation 
+(ground) where the machine is installed (see Figure 3.20). The force transmitted (Ft) to the 
+foundation is the sum of the spring force and the dampi
+
+Chunk 185:
+ng force.   
+ 
+Force transmissibility, TR is defined as: 
+ 
+. 
+ 
+In any of the two cases of loading (direct or induced), TR is given as 
+ 
+ 
+Þ 
+ 
+ 
+ 
+            
+           ………(3.43) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.20 Transmission of force to the ground 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+tF
+TR
+F
+=
+2
+2 2
+2
+1 (2
+)
+(1
+)
+(2
+)
+r
+TR
+r
+r
+z
+z
++
+=
+-
++
+ground 
+F(t) = F0sin(wt) 
+x 
+c 
+k 
+m 
+M 
+e 
+w 
+Ft 
+An important concept in engineering design for structural vibration. 
+VIBRATIONS MEC521 – CHA
+
+Chunk 186:
+PTER 3 
+ 
+ 
+David, N.V. © 2014-2021  
+ 
+ 
+ 
+ 
+ 
+ 
+             30 
+3.8 
+Vibration Isolation  
+ 
+Unwanted vibrations may be induced by large impulsive forces in machines such as hammers 
+and presses; unbalanced reciprocating components such as engines, motors (examples?); 
+resonance effects caused by recurring wind loading on structures or fluid flow in pipes. As you 
+are aware, the major objective of vibration analysis knowledge is to apply its results (by 
+understanding its physical significanc
+
+Chunk 187:
+e) to understand how unwanted or excessive vibrations 
+can be reduced or eliminated. 
+ 
+Vibration control is the use of vibration analysis - 
+To develop methods to reduce or eliminate unwanted vibrations, or 
+To use vibrations to protect against unwanted force or motion transmission. 
+ 
+Though it may not be in the scope of this course (MEC521), it is worthwhile to look into the 
+important methods to control excessive vibrations: 
+ 
+(a) 
+Control of the Excitation Magnitude or Frequency 
+ 
+–  
+red
+
+Chunk 188:
+uce the magnitude of the unbalance / rotational speed 
+– 
+change the excitation frequency 
+– 
+check the frequency response curve to determine the acceptable steady-state 
+amplitude 
+ 
+(b) 
+Control of System Parameters 
+– 
+The response of a system is a function of the system’s inertia, stiffness and 
+damping parameters. A change in any parameter causes a change in steady-
+state amplitude. 
+ 
+(c) 
+Control of System Configurations 
+– 
+A suitable example is addition of vibration absorber into the sy
+
+Chunk 189:
+stem of concern 
+to alter the natural frequency of the system so that is will not coincide with the 
+excitation frequency 
+ 
+(d) 
+Reduction of Force / Motion Transmission 
+– 
+This usually refers to the use of vibration isolator between two components of 
+a mechanical system. An isolator can reduce the transmission of (repetitive) 
+force  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+An important concept in engineering design for structural vibration. 
+Kindly note that some of the words, phrases, texts or explana
+
+Chunk 190:
+tions found in this set of Lecture Notes (Chapter 4) are 
+extracted from the references mentioned in the MEC521 Course Outline Booklet with due honor.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universiti Teknologi MARA 
+ 
+School of Mechanical Engineering 
+ 
+Shah Alam 
+ 
+ 
+VIBRATIONS – MEC521 
+for 
+Bachelor of Eng. (Hons.) in Mechanical Engineering 
+ 
+ 
+ 
+LECTURE NOTES 
+ 
+CHAPTER 4 
+MULTI DEGREE OF FREEDOM:  
+FREE & FORCED VIBRATIONS 
+ 
+ 
+THIS SET OF LECTURE NOTES COMPRISES TOPICS ON: 
+ 
+Ü Multi-degree freedom spring mass
+
+Chunk 191:
+ systems 
+Ü Equations of motions (FBD and Lagrange’s methods) 
+Ü Free vibration of MDOF (Natural frequencies, mode 
+shapes and response) 
+Ü Harmonic excitation of MDOF 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        2 
+4.1 
+Introduction 
+ 
+The analysis of vibrating systems in the previous lesson has been limited to systems with one 
+degree of freedom (SDOF). That means the motion of the system can be completely described 
+by only one coordinate
+
+Chunk 192:
+ variable. SDOF systems thus have one natural frequency. 
+ 
+However, in the real world, many engineering systems or assembly of components have several 
+degrees of freedom and hence several natural frequencies. The simple most form of a multi-
+DOF system is the two DOF (2-DOF) system. Figure 2 shows some examples of 2-DOF system 
+models. These systems require two independent displacement variables, e.g. y1 and y2, to 
+describe their motions. 2-DOF systems will have two modes (pattern) of motion 
+
+Chunk 193:
+and two 
+natural frequencies, w1 and w2. It follows that a three DOF system will have three displacement 
+variables, and would have three modes of motion and three natural frequencies. 
+ 
+ 
+ 
+ 
+ 
+Figure 4.1 Examples of 2-DOF systems. 
+ 
+This chapter deals with the analysis of free and forced vibrations of two DOF systems. 
+Analytical approaches to examining the motion of the systems and the corresponding two 
+natural frequencies will be elaborated. The same form of analysis can be used for syste
+
+Chunk 194:
+ms with 
+more than two DOF, however, the analysis entails many simultaneous equations and these 
+systems are usually evaluated by using computer programs or packages such as ‘finite element 
+analysis’. The analytical techniques developed in this chapter will provide you with further 
+understanding of vibrating systems and their modes of motion. 
+ 
+ 
+4.2 
+Free Vibration Analysis using FBD Method 
+ 
+We will use a simple two-mass and two-spring system to represent a linear system for this 
+analysis
+
+Chunk 195:
+. The springs represent elastic elements and the masses characterize the inertia in the 
+system. Damping will not be included in the analysis since this would make the equations of 
+motion more complex to solve. It should be noted that damping does modify the frequency of 
+vibration slightly. The following analysis will be divided into two parts including determination 
+of natural frequencies, w1 and w2, and relative displacements x2 / x1 at those two frequencies. 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CH
+
+Chunk 196:
+APTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        3 
+4.2.1 
+Determination of natural frequencies 
+ 
+Let us now consider the model of the 2-DOF system represented in Figure 4.2(a). This entails 
+two FBD, one for each mass component of the system, M1 and M2, when they are displaced and 
+vibrating, as shown in Figure 4.2(b). Take note that the net displacement of spring k2 is x2 – x1 
+assuming x2 > x1, which MUST be stated in the FBD. 
+ 
+ 
+ 
+ 
+                                      
+
+Chunk 197:
+Figure 4.2(a)  
+ 
+ 
+ 
+Figure 4.2(b) 
+ 
+ 
+The instantaneous displacements for the masses are represented by x1 and x2. These 
+displacements will vary with time and assuming the system to be vibrating in harmonic motion, 
+they can be represented by: 
+ 
+ 
+ 
+where X1 and X2 are the amplitudes of vibration of the two masses at wn, which can be either w1 
+or w2. That is, the system – comprising the two masses as a whole – vibrates either at w1 or w2 
+at any given time. So, we will have a set of x1 and
+
+Chunk 198:
+ x2 for w1 and another set of x1 and x2 for w2. 
+We shall now proceed to determine the two natural frequencies first. 
+ 
+From the FBD, the equations of motion for the two masses can be derived as follows. 
+ 
+Mass M1: 
+  
+ 
+ 
+ 
+       ……(1) 
+ 
+Mass M2: 
+          
+  
+ 
+ 
+ 
+       ……(2) 
+ 
+t
+X
+x
+t
+X
+x
+n
+n
+w
+w
+sin
+sin
+2
+2
+1
+1
+=
+=
+1
+1
+1
+2
+2
+1
+1
+)
+(
+x
+M
+x
+x
+k
+x
+k
+!!
+=
+-
++
+-
+2
+2
+1
+2
+2
+)
+(
+x
+M
+x
+x
+k
+!!
+=
+-
+-
+Assume x2 > x1 
+FBD 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+
+Chunk 199:
+               4 
+Since the system is assumed to be vibrating in simple harmonic motion, 
+ 
+ 
+ 
+      and  
+ 
+ 
+then 
+ 
+      and  
+ 
+ 
+or 
+ 
+ 
+      and  
+ 
+ 
+Substitution into Equations (1) and (2) gives: 
+ 
+ 
+           
+ 
+ 
+ 
+or 
+ 
+ 
+ 
+ 
+ 
+       ……(3) 
+ 
+and 
+      
+ 
+ 
+ 
+ 
+ 
+       ……(4) 
+ 
+Equations (3) and (4) can be represented in matrix form as follows: 
+ 
+ 
+ 
+ 
+ 
+When the system is vibrating, the values of x1 and x2 will be continuously changing with time. 
+It follows that the displac
+
+Chunk 200:
+ement matrix 
+ cannot be zero, therefore the 2 ´ 2 ‘system matrix’ 
+must be zero, or in other words, the determinant must be zero. Solving this determinant gives: 
+ 
+ 
+ 
+                
+ 
+ 
+or 
+ 
+ 
+ 
+       ……(5) 
+ 
+ 
+Equation (5) is a quadratic equation and its roots can be determined using the standard solution 
+for a quadratic equation. It can be shown, by substitution of z = 𝜔!" into Equation (5), that: 
+ 
+ 
+ 
+ 
+This solution for wn results in two values for the natural frequency of vibrati
+
+Chunk 201:
+on for the system, 
+i.e., w1 and w2. The lower value, w1, is called the first or fundamental natural frequency, and 
+the higher value, w2, is called the second natural frequency or first harmonic. 
+ 
+ 
+t
+X
+x
+n
+w
+sin
+1
+1 =
+t
+X
+x
+n
+w
+sin
+2
+2 =
+t
+X
+x
+n
+n
+w
+w
+sin
+1
+2
+1
+-
+=
+!!
+t
+X
+x
+n
+n
+w
+w
+sin
+2
+2
+2
+-
+=
+!!
+1
+2
+1
+x
+x
+n
+w
+-
+=
+!!
+2
+2
+2
+x
+x
+n
+w
+-
+=
+!!
+1
+2
+1
+1
+2
+2
+2
+1
+1
+x
+M
+x
+k
+x
+k
+x
+k
+n
+w
+-
+=
+-
++
+-
+0
+)
+(
+2
+2
+1
+2
+1
+2
+1
+=
++
+-
+-
+x
+k
+x
+k
+k
+M
+n
+w
+0
+)
+(
+2
+2
+2
+2
+1
+2
+=
+-
++
+x
+k
+M
+x
+k
+m
+w
+0
+)
+(
+2
+1
+2
+2
+2
+2
+1
+2
+1
+
+
+Chunk 202:
+2
+1
+=
+úû
+ù
+êë
+é
+ú
+û
+ù
+ê
+ë
+é
+-
+-
+-
+x
+x
+k
+M
+k
+k
+k
+k
+M
+n
+n
+w
+w
+úû
+ù
+êë
+é
+2
+1
+x
+x
+(
+)(
+)
+0
+2
+2
+2
+2
+2
+2
+1
+2
+1
+=
+-
+-
+-
+-
+k
+k
+M
+k
+k
+M
+n
+n
+w
+w
+(
+)
+0
+2
+1
+2
+2
+2
+1
+2
+2
+1
+4
+2
+1
+=
++
++
++
+-
+k
+k
+k
+M
+k
+M
+k
+M
+M
+M
+n
+n
+w
+w
+2
+1
+2
+1
+2
+1
+2
+1
+2
+2
+1
+2
+1
+2
+2
+2
+4
+2
+1
+2
+1
+   
+M
+M
+k
+k
+M
+k
+k
+M
+k
+M
+k
+k
+M
+k
+z
+n
+-
+÷÷
+ø
+ö
+çç
+è
+æ
++
++
+±
+÷÷
+ø
+ö
+çç
+è
+æ
++
++
+=
+= w
+……(6) 
+k2 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        5 
+4.2.2 
+Determination of mode shapes at w1 and w2 
+ 
+The amplitude rati
+
+Chunk 203:
+o (or displacement ratio), that describes the pattern of vibration (called mode 
+shape), can be found from the equations of motion. It can be seen from Equation (4) that, 
+ 
+ 
+or 
+                         ……(7) 
+ 
+A different expression would be obtained from Equation (3), but upon substitution for all the 
+parameters, the values for x2/x1 should be the same as obtained from the above expression. From 
+Equation (3): 
+ 
+        or       
+ 
+  
+It will be shown (see Example 4.1 below) that when the
+
+Chunk 204:
+ system is vibrating at the lower natural 
+frequency (w1), both masses will be moving in the same direction at all instances in time. This 
+will result from the displacement ratio having a positive value. At the higher or second natural 
+frequency (w2) of vibration, the displacement ratio will be negative, indicating that the masses 
+move in opposite directions at all instances in time. 
+ 
+ 
+EXAMPLE 4.1 
+ 
+Consider a two mass spring system as shown below in Figure 4.3. If k1 = k2 = k = 8 MN/m 
+a
+
+Chunk 205:
+nd M1 = M2 = M = 500 kg, 
+ 
+1. determine the two natural frequencies of vibration for the system, 
+2. determine the respective displacement ratios at each frequency, and 
+3. sketch the form of the displacements (mode shapes) for each mass when the system is 
+vibrating at each of the two natural frequencies. 
+ 
+ 
+ 
+Figure 4.3 
+2
+2
+2
+2
+1
+2
+k
+M
+k
+x
+x
+n -
+-
+=
+w
+2
+2
+2
+2
+n
+M
+k
+k
+w
+-
+2
+2
+1
+2
+1
+1
+2
+k
+k
+k
+M
+x
+x
+n
+-
+-
+-
+=
+w
+2
+2
+1
+2
+1
+k
+M
+k
+k
+n
+w
+-
++
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+
+Chunk 206:
+
+ 
+ 
+ 
+ 
+                        6 
+Solution 
+ 
+1. TWO NATURAL FREQUENCIES 
+ 
+Substituting k1, k2, M1 and M2 initially into Equation (6) for 
+ gives: 
+ 
+ 
+ 
+ 
+or 
+ 
+ 
+This will result in two values for 
+, using the addition (+) and subtraction (–) signs: 
+ 
+Using “–” 
+ 
+ 
+ 
+Þ  
+ 
+ 
+Using “+” 
+ 
+ 
+ 
+Þ  
+ 
+ 
+and substituting for k and M yields 
+ 
+\  
+rad/s  and  204.66 rad/s 
+ 
+Hence, the first natural frequency, or fundamental frequency, is 
+rad/s, and the 
+second natural frequency or first harmo
+
+Chunk 207:
+nic frequency is 
+ rad/s. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+n
+w
+2
+2
+2
+2
+2
+2
+2
+2
+4
+9
+2
+1
+2
+3
+     
+4
+3
+2
+1
+2
+3
+M
+k
+M
+k
+M
+k
+M
+k
+M
+k
+M
+k
+n
+-
+±
+=
+-
+÷
+ø
+ö
+ç
+è
+æ
+±
+=
+w
+2
+2
+2
+5
+2
+1
+2
+3
+M
+k
+M
+k
+n
+±
+=
+w
+2
+n
+w
+M
+k
+M
+k
+M
+k
+n
+382
+.0
+118
+.1
+5.1
+2
+=
+-
+=
+w
+rad/s
+ 
+618
+.0
+M
+k
+n =
+w
+M
+k
+M
+k
+M
+k
+n
+618
+.2
+118
+.1
+5.1
+2
+=
+-
+=
+w
+rad/s
+ 
+618
+.1
+M
+k
+n =
+w
+17
+.
+78
+=
+n
+w
+17
+.
+78
+1 =
+w
+66
+.
+204
+2 =
+w
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        7 
+2. DISPLACEMENT RATIOS AT EACH NATURAL FREQUEN
+
+Chunk 208:
+CY 
+ 
+The displacement ratio for the system, when it is vibrating at each of the two natural 
+frequencies, can be evaluated using Equation (7) as follows: 
+ 
+ 
+ 
+At 
+:  
+ 
+or 
+ 
+ 
+At 
+:  
+ 
+x2
+x1 = – 0.618     or 
+ x2 = – 0.618x1 
+ 
+As stated earlier, this result shows that the displacements of M1 and M2 are in the same direction 
+when the system is vibrating at 
+ (78.17 rad/s) and in opposite directions at 
+(204.66 rad/s). 
+ 
+ 
+3. MODE SHAPE AT EACH NATURAL FREQUENCY 
+ 
+The two modes of vibrati
+
+Chunk 209:
+on are illustrated below. Mode 1 corresponds to pattern of vibration 
+(i.e., relative position of M1 and M2) at 
+, and Mode 2 at 
+. The amplitude ratios shown in 
+these mode shapes should be considered as a snap shot in time of the displacements, since they 
+will vary with time, but their form will be the same. 
+ 
+ 
+ 
+ 
+The term mode describes the relative motion of the two masses. The absolute displacements of 
+the masses cannot be determined since no information is provided relating to how the
+
+Chunk 210:
+ system 
+may be forced to vibrate. For instance, in Mode 1, when mass M1 undergoes a unit displacement 
+(say, 1 cm) to the right, mass M2 undergoes 1.618 of the unit displacement (1.618 cm) in the 
+same direction. In Mode 2, when M1 undergoes a unit displacement to the right, M2 undergoes 
+0.618 of that unit displacement but to the left (the negative sign denotes opposite direction). 
+2
+6
+6
+2
+2
+2
+2
+1
+2
+500
+10
+8
+10
+8
+n
+n
+M
+k
+k
+x
+x
+w
+w
+-
+´
+´
+=
+-
+=
+1
+w
+618
+.1
+1
+2 =
+x
+x
+1
+2
+618
+.1
+x
+x =
+2
+w
+1
+w
+2
+w
+
+
+Chunk 211:
+1
+w
+2
+w
+M1 
+M2 
+Draw a vertical 
+dotted line 
+Draw a horizontal 
+arrow to the right 
+Draw a horizontal 
+arrow to the right 
+Close the 
+polygon 
+ x 
+ w 
+ v 
+ u 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        8 
+WORKSHEET (4.1) 
+ 
+A 2-DOF torsional system is shown in Figure 4.4.  
+ 
+ 
+ 
+ 
+Figure 4.4 
+ 
+(i) Derive the equations of motion of the system using their free-body diagrams. 
+ 
+(ii) Derive the expressions for 
+ 
+(a)  the natural frequencies of the s
+
+Chunk 212:
+ystem, and  
+ 
+(b)   the displacement ratio of the discs when the system vibrates at each of the two natural 
+frequencies. 
+ 
+(iii) If the two rotors in the system possess stiffnesses and inertias as listed below, determine 
+the two natural frequencies of the torsional vibration of the system. 
+ 
+Shaft stiffnesses:                       
+          and         
+ 
+Moments of inertia of discs:     
+        and          
+ 
+ 
+(iv) (a)  Evaluate the amplitude ratios corresponding to the two natural fr
+
+Chunk 213:
+equencies. 
+ 
+(b)  Derive an expression to represent the position, x, of the node in shaft k2 from disc I2 if 
+the length of shaft k2 is given as L. (Hint: Use the principles of similar triangles.) 
+ 
+ 
+Answers:  (iii)   w1 = 2343.9 rad/s, w2 = 5507.8 rad/s 
+(iv)  (a) At w1, 
+θ2
+θ1 = 1.78, At w2, 
+θ2
+θ1 = – 0.7, (b) x = 0.412 L 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MN/rad
+ 2
+1 =
+k
+MN/rad
+ 5.1
+2 =
+k
+2
+1
+m
+ 
+kg
+ 
+15
+.0
+=
+I
+2
+2
+m
+ 
+kg
+ 
+12
+.0
+=
+I
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+Chunk 214:
+                      9 
+4.3 
+Derivation of EOM using Lagrange’s Equation 
+ 
+As seen above, the FBD is one approach to deriving the equation of motions (EOMs) of a 2-
+DOF system. The Lagrange method is an alternative approach to deriving the EOMs. This 
+method is pertinent to the kinetic (T) and potential (V) energies of the system at an arbitrary 
+instant. T and V are functions of n number of generalized coordinates, x. The lagrangian, L is 
+defined as 
+ 
+  L = T – V.                           
+
+Chunk 215:
+                           ……(8) 
+ 
+The Lagrange’s equations are given by 
+ 
+  
+!
+!" "
+#$
+#%!̇ # −
+#$
+#%" = 𝐹'                                            ……(9a) 
+ 
+or 
+ 
+  
+!
+!" "
+#(
+#%!̇ # −
+#(
+#%" +
+#)
+#%" = 𝐹', i = 1, 2, 3 …. n                          ……(9b) 
+ 
+where Fi is the non-conservative generalized force corresponding to the ith generalized 
+coordinate xi, and 𝑥̇# is the first time derivate of xi (i.e. generalized velocity). Take note that the 
+generalized coordinate does not have to 
+
+Chunk 216:
+be x (linear displacement) all the time; it can be also q 
+(angular displacement) depending on the given system and loading conditions. 
+ 
+Equation (9a) or (9b) represents a system of n differential equations with every ith equation 
+corresponding to each of the n generalized coordinates. Equation (9a) or (9b) thus can be used 
+to derive the equations of motion of a 2-DOF system. 
+ 
+ 
+EXAMPLE 4.2 
+ 
+Use Lagrange's equations to derive the differential equations governing the motion of the 
+system
+
+Chunk 217:
+ shown Figure 4.5 using q1 and q2 as generalized coordinates.  
+ 
+ 
+ 
+Figure 4.5 
+ 
+Solution 
+ 
+The kinetic energy of the system (at an arbitrary instant), T, is 
+ 
+ 
+ 
+Kinetic energy = 
+#
+$ 𝑚𝑣$ 
+  𝑣= 𝑥̇ = 𝑟𝜃̇ 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        10 
+\ 
+The potential energy of the system (at an arbitrary instant), V, is 
+ 
+ 
+ 
+ 
+ 
+The lagrangian therefore is 
+ 
+    
+ 
+ 
+ 
+Substitution of the lagrangian above into Equation (9a) one generalized 
+
+Chunk 218:
+coordinate (i.e., one 
+DOF) at a time gives: 
+ 
+ 
+For q1 
+ 
+ ……(±) 
+ 
+ 
+For q2 
+ 
+ 
+  ……(ó) 
+ 
+ 
+ 
+Linearizing (±) and (ó) for small angle yields the EOM for the given system 
+ 
+ 
+ 
+In-class Quiz 
+ 
+Transform the equations of motion above into a matrix. 
+ 
+ 
+ 
+Potential energy comprises 
+gravitational potential energy and 
+elastic energy in the spring 
+mgh 
+  
+!
+" 𝑘𝑥" 
+ 
+Differentiate L wrt to q1 
+ 
+Differentiate L wrt to 𝜃̇! 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+
+Chunk 219:
+                    11 
+WORKSHEET (4.2) 
+ 
+The identical disks of mass m and radius r of Figure 4.6 roll without slip. Use Lagrange's 
+equations to derive the governing differential equations using x1 and x2 as generalized 
+coordinates. State the EOMs in matrix form. 
+ 
+ 
+ 
+Figure 4.6 
+ 
+ 
+ 
+ 
+Answer:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        12 
+4.4 
+Forced vibration analysis of a 2-DOF
+
+Chunk 220:
+ system 
+ 
+In this section, we shall examine the effects of a forcing function, F(t) with an excitation 
+frequency w, applied to one of the mass elements in a 2-DOF system. The objective of analysis 
+in this part is to determine expressions for X1 and X2. Every system will need to have its 
+equations of motion developed in order to evaluate displacement amplitudes, X. 
+ 
+Consider the 2-DOF system shown earlier in Figure 4.2(a), but now with an externally applied 
+harmonic force, F sin(wt), actin
+
+Chunk 221:
+g on M1 as shown in Figure 4.7(a). 
+ 
+ 
+ 
+ 
+ 
+                                Figure 4.7(a)  
+ 
+                   Figure 4.7(b) 
+ 
+ 
+It can be shown, using the FBD method, that the EOM for each mass is as follows. 
+ 
+Mass M1: 
+ 
+               
+     ……(10) 
+ 
+Mass M2: 
+ 
+ 
+   
+ 
+                               ……(11) 
+ 
+ 
+You will remember that when a system is acted upon by a harmonic force at a specific excitation 
+frequency, w, the system will respond by vibrating at that excitation frequency
+
+Chunk 222:
+ (i.e., no more at 
+its own natural frequencies). Hence, assuming a harmonic response of the form X sin(wt), 
+ 
+⇒ 
+  
+and 
+ 
+ 
+and 
+ 
+and 
+ 
+ 
+(
+)
+1
+1
+1
+2
+2
+1
+1
+sin
+x
+M
+t
+F
+x
+x
+k
+x
+k
+!!
+=
++
+-
++
+-
+w
+(
+)
+2
+2
+1
+2
+2
+x
+M
+x
+x
+k
+!!
+=
+-
+-
+t
+X
+x
+w
+sin
+1
+1 =
+t
+X
+x
+w
+sin
+2
+2 =
+t
+X
+x
+w
+w
+sin
+1
+2
+1
+-
+=
+!!
+t
+X
+x
+w
+w
+sin
+2
+2
+2
+-
+=
+!!
+Assume x2 > x1 
+FBD 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        13 
+\ 
+\ 
+Substitution into Equations (10) and (11) gives: 
+ 
+ 
+ 
+   
+
+Chunk 223:
+     
+  
+ 
+                  ……(12) 
+ 
+and 
+ 
+ 
+   
+ 
+ 
+ 
+     ……(13) 
+ 
+Note: The sin(wt) term will originally appear in all terms in the equations, and so have been 
+cancelled in Equations (12) and (13). 
+ 
+ 
+Rearranging Equations (12) and (13) in Xl and X2 gives two simultaneous equations as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     ……(14) 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+     ……(15) 
+ 
+ 
+Solving the above two simultaneous equations gives the expressions for the amplitudes as: 
+  
+ 
+ 
+ 
+ 
+ 
+     ……(16) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Chunk 224:
+    ……(17) 
+ 
+ 
+Thus, the response (amplitude) of each mass, X1 and X2 , can be determined for each mass, M1 
+and M2, respectively, in terms of the magnitude of excitation force F and excitation frequency 
+w. 
+ 
+It needs to be recognised that this 2-DOF system will still have two natural frequencies, w1 and 
+w2, which can be calculated using Equation (6). If w  is close to either of these two natural 
+frequencies, then resonance will occur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(
+)
+1
+1
+2
+1
+2
+2
+1
+1
+X
+M
+F
+X
+X
+k
+X
+k
+w
+-
+
+
+Chunk 225:
+=
++
+-
++
+-
+(
+)
+2
+2
+2
+1
+2
+2
+X
+M
+X
+X
+k
+w
+-
+=
+-
+-
+1
+2
+1
+2
+1
+2
+1
+2
+1
+1
+M
+F
+X
+M
+k
+X
+M
+k
+M
+k
+=
+-
+÷÷
+ø
+ö
+çç
+è
+æ
+-
++
+w
+(
+)
+2
+2
+2
+1
+2
+2
+X
+M
+X
+X
+k
+w
+-
+=
+-
+-
+ú
+û
+ù
+ê
+ë
+é
+-
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+=
+2
+1
+2
+2
+2
+2
+2
+1
+1
+1
+2
+2
+2
+1
+w
+w
+w
+w
+M
+k
+M
+k
+M
+k
+M
+F
+M
+k
+X
+ú
+û
+ù
+ê
+ë
+é
+-
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+´
+=
+2
+1
+2
+2
+2
+2
+2
+1
+1
+1
+2
+2
+2
+w
+w
+w
+M
+k
+M
+k
+M
+k
+M
+F
+M
+k
+X
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        14 
+EXAMPLE 4.3 
+ 
+Consider the system 
+
+Chunk 226:
+shown in Example 4.1 where, 
+ 
+k1 = k2 = k = 8 MN/m   and   M1 = M2 = M = 500 kg 
+ 
+that has the following two natural frequencies 
+ 
+w1 = 78.17 rad/s       and      w2 = 204.66 rad/s 
+ 
+If an excitation force of magnitude 2000 N is applied to mass M1, determine the amplitudes of 
+vibration of each mass at the following three different forcing (excitation) frequencies: 
+ 
+w    =  50 rad/s    |    140 rad/s    |    200 rad/s 
+ 
+ 
+Solution 
+ 
+ 
+⇒ 
+ 
+ 
+⇒ 
+ 
+ 
+Substituting into amplitude Equations (
+
+Chunk 227:
+16) and (17) gives 
+ 
+ 
+⇒ 
+ 
+ 
+ 
+⇒ 
+ 
+ 
+ 
+Substitution of the following values of w into the above interim equations gives 
+ 
+ 
+ 
+w  (rad/s) 
+50 
+140 
+200 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+m
+N/kg
+ 
+10
+16
+3
+1
+1
+2
+2
+1
+2
+×
+´
+=
+=
+=
+=
+M
+k
+M
+k
+M
+k
+M
+k
+N/kg
+4
+500
+10
+2
+3
+1
+=
+´
+=
+M
+F
+(
+)
+(
+)
+[
+]
+2
+3
+2
+2
+3
+2
+3
+1
+10
+16
+10
+16
+4
+10
+16
+w
+w
+w
+´
+-
+-
+´
+-
+´
+=
+X
+(
+)
+[
+]
+2
+3
+2
+2
+3
+3
+2
+10
+16
+10
+16
+4
+10
+16
+w
+w
+´
+-
+-
+´
+´
+´
+=
+X
+(
+)
+2
+3
+10
+16
+w
+-
+´
+3
+10
+5.
+13
+´
+3
+10
+6.3
+´
+-
+3
+10
+24´
+-
+(
+)
+2
+3
+2
+2
+3
+10
+16
+10
+16
+w
+w
+´
+-
+-
+´
+8
+10
+4
+
+Chunk 228:
+2
+.1
+´
+8
+10
+3´
+-
+8
+10
+4.6
+´
+-
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        15 
+Final substitution of the above interim results into the expression for X1 and X2  yields: 
+ 
+ 
+w  (rad/s) 
+50 
+140 
+200 
+X1 (mm) 
+0.38 
+0.048 
+1.5 
+X2 (mm) 
+0.45 
+– 0.213 
+– 1.0 
+ 
+Discussion: 
+ 
+It can be seen from these results that at w = 50 rad/s, masses M1 and M2 are vibrating in phase 
+(same signs) with amplitudes of 0.38 and 0.45 mm, respectively. This is below the f
+
+Chunk 229:
+irst natural 
+frequency of the system (w1 = 78.17 rad/s). For w = 140 rad/s, which lies between w1 and w2, 
+X1 is very low at approximately 0.05 mm whilst X2 = 0.213 mm but heading to the opposite 
+direction of X1 (negative sign). At w  = 200 rad/s, which close to the second natural frequency 
+(w2) of 204.66 rad/s, both amplitudes are high at 1.5 and –1 mm, respectively. Thus for                     
+w = 140 rad/s and w = 200 rad/s, the masses vibrate out of phase (opposite directions) to each 
+
+
+Chunk 230:
+other. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        16 
+4.5 
+Dynamic vibration absorber 
+ 
+We have seen that for a 2-DOF system subjected to a harmonic force, it is possible to have zero 
+displacement of the first mass M1, even though there is an excitation force being applied directly 
+to it. A quick inspection of Equation (16) will reveal that it is theoretically possible to make    
+
+
+Chunk 231:
+X1 = 0 by making the numerator of the RHS of the equation zero. 
+ 
+In this case, the applied excitation force, F, is directly balanced by a force – resulting from the 
+vibration of the second mass M2 – that is exerted onto the first mass through spring k2. The 
+excitation force applied to M1 is thus ‘absorbed’ by the second mass M2 and spring k2. 
+ 
+This gives us the opportunity to control the amplitude of vibration of an existing SDOF system 
+(primary; M1 and k1) by adding a second set of mass 
+
+Chunk 232:
+and spring (secondary; M2 and k2) that 
+converts the original 1-DOF system effectively into a 2-DOF system. The secondary system is 
+called “dynamic vibration absorber”. Figure 4.8 (a) and (b) explains this. 
+ 
+ 
+ 
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Figure 4.8(a)  
+ 
+ 
+ 
+ 
+         Figure 4.8(b) 
+    SDOF system (primary) 
+                                        Secondary system added      
+ subject to external force, F(t)                                 
+
+Chunk 233:
+             to the primary system 
+ 
+ 
+ 
+As mentioned above, inspection of Equation (16) shows that X1 will have a zero value when
+. That is, X1 = 0 when the values of spring stiffness (k2) and second mass (M2) are 
+chosen such that their ratio is identical to the excitation frequency, w. In this case, 
+ 
+ 
+2
+2
+2
+w
+=
+M
+k
+÷÷
+ø
+ö
+çç
+è
+æ
+-
+=
+-
+=
+2
+2
+2
+2
+2
+or  
+          
+k
+F
+X
+M
+F
+X
+w
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        17 
+WORKSHEET (4.3) 
+ 
+A 
+
+Chunk 234:
+machine has a total mass of 800 kg and is mounted on supports which provide a total vertical 
+stiffness of 12 MN/m. When the machine is operating at its design speed of 1200 revs/min, it 
+is found to vibrate at an unacceptable level. 
+ 
+(a) Investigate the possible reason for this level of vibration. 
+ 
+It is proposed to reduce the vibration by fitting a spring and mass, to act as a dynamic vibration 
+absorber.  
+ 
+(b) If the absorber mass is to be 50 kg, determine the stiffness of a suitable sp
+
+Chunk 235:
+ring. 
+ 
+(c) If the amplitude of the excitation force is 700 N, determine the amplitude of vibration of the 
+absorber mass when the machine is operating at its design speed. 
+ 
+(d) Determine the two natural frequencies of vibration for the machine with the absorber fitted.  
+ 
+(e) Comment on the suitability of this particular solution for reducing the amplitude of 
+vibration. 
+ 
+ 
+ 
+Answers:   
+(a) Hint: Compare excitation frequency and the natural frequency of the primary system. 
+(b) k2 = 7.89
+
+Chunk 236:
+ ´ 105 N/m 
+(c) X2 = 0.887 ´ 10–3 m 
+(d) w1 = 109.3 rad/s, w2 = 140.9 rad/s 
+(e) Hint: We have found only a mathematical solution to this vibration issue. w1 and w2 are 
+still quite close to w. It is advisable to have w1 and w2 at least 20% away from w. If the values 
+of k2 and M2 to achieve X1 = 0 are found to be unrealistic via analytical solution, then adding 
+the secondary system is not a good solution. So suggest one way how to absorb the 
+(amplitude of) vibration of the primary system othe
+
+Chunk 237:
+r than adding the secondary system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        18 
+4.6 
+Free vibration analysis of a 2-DOF system: Normal mode solution approach 
+ 
+In Section 4.2 above, we have seen how a 2-DOF system under free vibration is analysed and 
+its natural frequencies and mode shapes are obtained. In this section, we will explore another 
+approach to obtaining the same quantities called the normal m
+
+Chunk 238:
+ode solution. This approach 
+utilizes matrix analysis but slightly different than that presented on p. 4 above. Let’s explore! 
+ 
+ 
+4.6.1 
+Definition of “normal mode” 
+ 
+Consider a 2-DOF system as shown in Figure 4.9 
+(similar to Figure 4.2(a)). Normal mode refers to a state 
+of motion when masses M1 and M2 are oscillating in such 
+a manner that they reach their respective maximum 
+displacements (X1 and X2) simultaneously and also pass 
+their respective SEPs simultaneously, i.e. at the same 
+tim
+
+Chunk 239:
+e in every oscillation.  
+ 
+In short, this state of motion can be described as follows: 
+ 
+All bodies of interest in the system are vibrating                  
+in phase at one frequency*.  
+ 
+*both masses vibrate either at w1 or w2 at a given time 
+ 
+ 
+ 
+ 
+                      Figure 4.9 
+ 
+ 
+4.6.2 
+Steps to obtain natural frequencies (w1 and w2) 
+ 
+Step 1:  Obtain the EOMs (either through FBD or Lagrange’s method) 
+ 
+ 
+Example: Refer Equations (1) and (2) on p. 3 above. 
+ 
+Step 2:  Rewrite the
+
+Chunk 240:
+ EOMs in Step 1 by grouping the principal coordinates, x1 and x2 and their 
+second derivatives as follows: 
+ 
+Example: 𝑀#𝑥̈# + (𝑘# + 𝑘$)𝑥# −𝑘$𝑥$ = 0 
+ 
+  𝑀$𝑥̈$ −             𝑘$𝑥# + 𝑘$𝑥$ = 0 
+ 
+Step 3:  Transform the above rewritten EOMs to a  matrix of the following standard form: 
+ 
+ 
+[M]{𝑥̈} + [K]{𝑥} = [0] 
+ 
+Example: .𝑀#
+0
+0
+𝑀$/ 0𝑥̈#
+𝑥̈$1 + .𝑘# + 𝑘$
+−𝑘$
+−𝑘$
+𝑘$ / 2𝑥#
+𝑥$3 = 0 
+ 
+where,  mass matrix, [M] = .𝑀#
+0
+0
+𝑀$/ 
+ 
+and  
+stiffness matrix, [K] = .𝑘# + 𝑘$
+−𝑘$
+−𝑘$
+𝑘$ / 
+SEP of M1 
+SEP of M2 
+
+
+Chunk 241:
+ 
+The b and c elements in the 
+stiffness matrix are usually 
+the same. If your terms for b 
+and c are different, it’s best 
+you check your EOMs 
+through again. 
+(𝑎
+𝑏
+𝑐
+𝑑- 
+1 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        19 
+Step 4: In the normal mode solution approach, natural frequencies (w1 and w2) are called 
+“eigenvalues”.  
+ 
+For the purpose of the following analysis, w1 and w2 are collectively written as wn with 
+n = 1 and 2. 
+ 
+The eigenvalues a
+
+Chunk 242:
+re calculated from the following equation: 
+ 
+det | [K]  –  l[M] | = 0 
+ 
+where,  l = 𝜔!"   (this is a temporary substitution to ease calculation) 
+ 
+Prerequisite knowledge:  Matrix operations 
+You need to know how to get the determinant of a 2 x 2 matrix. 
+ 
+ 
+Example:   [K] – l[M] = .(𝑘# + 𝑘$) −𝑀#𝜆
+−𝑘$
+−𝑘$
+𝑘$ −𝑀$𝜆/ 
+ 
+               det | [K] – l[M] | =  5(𝑘# + 𝑘$) −𝑀#𝜆6 (𝑘$ −𝑀$𝜆) −(−𝑘$)(−𝑘$) = 0  
+ 
+                           =  𝑀#𝑀$𝜆$ −(𝑀#𝑘$ + 𝑀$𝑘# −𝑀$𝑘$)𝜆+ 𝑘#𝑘$ = 0  
+ 
+Equation («) is a qua
+
+Chunk 243:
+dratic equation and comparable to Equation (5) on p. 4 above. 
+Thus by solving for l, we can obtain the expressions for the two natural frequencies, 
+l1 and l2 (i.e., w1 and w2) identical to Equation (6). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+…… («)  
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        20 
+4.6.3 
+Steps to obtain mode shape vectors ({Xi}) 
+ 
+Step 1:  Let the mode shape vector, {Xi} = [Xi1   Xi2]T 
+ 
+ 
+ 
+where  i = refers 
+
+Chunk 244:
+to the i-th mode (natural frequency) 
+              = 1, 2 for 2-DOF systems (two modes of vibration) 
+ 
+Example: X1 = mode shape corresponding to the first natural frequency (see p. 7) 
+  
+  X11 = displacement of mass M1 at the first natural frequency, w1 
+ 
+  X12 = displacement of mass M2 at the first natural frequency, w1 
+ 
+ 
+Step 2:  Use the following formula to determine {X1} for l1 for Mode 1 
+ 
+| [K]  –  l[M] | {𝑿'} = [0] 
+ 
+ 
+by setting X11 = 1 unit displacement and finding the displace
+
+Chunk 245:
+ment of X12  
+see explanation for item 3. (Example 4.1) on p. 7 
+ 
+Example:  | [K] – l[M] | {X1} = .(𝑘# + 𝑘$) −𝑀#𝜆
+−𝑘$
+−𝑘$
+𝑘$ −𝑀$𝜆/ 0 1
+𝑋#$1 = 0 
+ 
+   
+  {X1} = 2
+1
+1.6183   (if using the parameter values of Example 4.1 in µ) 
+ 
+ 
+ 
+Step 3:  Repeat Step 2 to determine {X2} for l2  for Mode 2 
+ 
+by setting X21 = 1 unit displacement and finding the displacement of X22  
+see explanation for item 3. (Example 4.1) on p. 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Example:  {X2} = 2
+1
+−0.6183   (if using the parameter
+
+Chunk 246:
+ values of Example 4.1 in µ) 
+ 
+ 
+Note that the two mode shapes, {X1} = $
+1
+1.618)  and {X2} = $
+1
+−0.618)  (going by Example 4.1), 
+corresponds to the two eigenvalues, l1 and l2 (natural frequencies, w1 and w2), respectively. 
+ 
+[𝑋!"
+𝑋!#]$ =& 𝑋!"
+𝑋!#' 
+3 
+X11 è Fix this as 1  
+X12 è Find this  
+…… (µ)  
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        21 
+4.6.4 
+Steps to confirm mode shape orthogonality 
+ 
+Mode shape orthogonality refers to an analytical 
+
+Chunk 247:
+method to confirm that both the mode shapes, 
+{X1} and {X2}, are mutually independent. That is, referring to the idea of normal modes as 
+described in Section 4.6.1, the values of amplitudes of masses M1 and M2, and their timing of 
+passing by their SEPs (phase) are unique to the specific natural frequency they are vibrating at.  
+ 
+Meaning, there will be one set of values of X1 and X2 (for M1 and M2) and phase of vibration 
+exclusive to w1, and another set of values  of X1 and X2 (for M1 and M2
+
+Chunk 248:
+) and phase that is 
+pertinent to w2. 
+ 
+Step 1:  Prove the following 
+ 
+{𝑿*}([𝑴]{𝑿+} @ 0 
+ 
+ 
+ 
+If the LHS matrix operation results in zero or near zero value, then the mode shapes are mutually 
+orthogonal. Otherwise (if non-zero), it implies that the mode shapes are not orthogonal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+VIBRATIONS MEC521 – CHAPTER 4 
+ 
+© 2022 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        22 
+WORKSHEET (4.4) 
+ 
+The equations of motion of a 
+
+Chunk 249:
+2-DOF system is given by: 
+ 
+ 
+05
+0
+0
+0.54 5𝑥̈
+𝜃̈7 + 84 × 10,
+4 × 10-
+4 × 10-
+4 × 10-< 5𝑥
+𝜃7 = 0 
+ 
+ 
+(a) Determine the natural frequencies of the system using the normal mode solution. 
+ 
+(b) Find the mode shape vectors at each natural frequency. 
+ 
+(c) Assess if the mode shapes are mutually orthogonal. 
+ 
+ 
+Answers:   
+(a) w1 = 233.9 rad/s, w2 = 324.5 rad/s 
+(b) {X1} = $
+1
+−3.16)  and {X2} = $ 1
+3.16)   
+(c) Yes, the mode shapes are mutually orthogonal. (Show that {𝑿'}([𝑴]{𝑿"} @ 0) 
+ 
+Kindly n
+
+Chunk 250:
+ote that some of the words, phrases, texts or explanations found in this set of Lecture Notes (Chapter 5) are 
+extracted from the references mentioned in the MEC521 Course Outline Booklet with due honor.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Universiti Teknologi MARA 
+ 
+School of Mechanical Engineering 
+ 
+Shah Alam 
+ 
+ 
+VIBRATIONS – MEC521 
+for 
+Bachelor of Eng. (Hons.) in Mechanical Engineering 
+ 
+ 
+ 
+LECTURE NOTES 
+ 
+CHAPTER 5 
+BEAM VIBRATION – DUNKERLEY’S 
+METHOD &  
+STIFFNESS INFLUENCE COEFFICIENT 
+ 
+ 
+THIS SET O
+
+Chunk 251:
+F LECTURE NOTES COMPRISES TOPICS ON: 
+ 
+Ü Fundamental frequency of beam vibration (Dunkerley’s 
+method) 
+Ü Stiffness influence coefficient 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        2 
+5.1 
+Introduction 
+ 
+In the study of vibrations, so far we have concentrated on discrete systems, i.e., systems that 
+have a number of mass elements and stiffnesses. In the previous chapter, we looked at systems 
+with two degrees of freedom (DOF) and it was st
+
+Chunk 252:
+ated that systems can have many DOF and 
+hence many natural frequencies of vibration. In this chapter, we will look at a particular type 
+of vibration, where the system may have many natural frequencies that can be evaluated by 
+using an alternative method based upon energy conservation called the Dunkerley’s method. 
+ 
+The type of beam vibration covered in this chapter is transverse vibration (see Figures 5.1 and 
+5.2). A beam-like structure is also referred to as a continuous system. A structu
+
+Chunk 253:
+re that can be 
+modeled as comprising of an infinite number of mass elements and provides stiffness 
+throughout its length is termed “continuous”.  
+ 
+An example of transverse vibration can be found in a pedestrian bridge across a river. The 
+bridge may start to noticeably oscillate once a number of people are walking along it. This 
+resulted because one of its natural frequencies was close to the foot step frequency of the people. 
+You should recognize this as a classical problem of resonance. 
+
+Chunk 254:
+Obviously, modifications to the 
+bridge has to be made to control its excessive vibrations. Part of the solution to the problem 
+includes fitting dynamic vibration absorbers, which was covered in the previous chapter. 
+ 
+ 
+ 
+ 
+Figure 5.1 This beam (or bar) has the potential to vibrate in the x and y directions as shown 
+in Figures 5.2(a) and 5.2(b) below. These two vibrations are referred to as transverse 
+vibration since the displacement during vibration is perpendicular to the longitudinal axi
+
+Chunk 255:
+s z. 
+ 
+ 
+ 
+ 
+(a)  
+ 
+ 
+ 
+ 
+        (b) 
+ 
+Figure 5.2 Two kinds of transverse vibrations: (a) transverse x, and (b) transverse y. 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        3 
+A continuous system is called as such because (i) its displacement (along the x-axis or y-axis) 
+can be defined continuously along its length (z-axis) of the beam, and (ii) the beam mass is 
+distributed continuously along the length of the beam. For an absolute solution of
+
+Chunk 256:
+ the vibration, 
+it would be necessary to consider the beam as an infinite number of connected mass elements, 
+each having its own stiffness. This would result in an infinite number of natural frequencies, in 
+each form of vibration. The following elaboration is pertinent to the first natural frequency a.k.a 
+fundamental frequency. 
+ 
+ 
+5.2 
+Dunkerley’s Method to Determine Fundamental Frequency 
+ 
+5.2.1 
+Energy method (Rayleigh’s approach) 
+ 
+The energy method as a general concept was developed 
+
+Chunk 257:
+by Rayleigh. The method considers a 
+vibrating system and the conservation of energy during its vibration. The principle will now be 
+developed by consideration of a simple SDOF system and will then be extended to a beam 
+carrying concentrated loads. We will first evaluate the strain energy and kinetic energy for the 
+system when vibrating. 
+ 
+Consider the simple spring mass system represented in Figure 5.3. The movement from the 
+static equilibrium position is defined by x and the amplitude of 
+
+Chunk 258:
+vibration by X. The maximum 
+kinetic energy, Tmax for the system occurs when the mass has its highest velocity, Vmax. This 
+will be as the mass passes through the static equilibrium position (SEP) during its oscillations. 
+This situation is represented by: 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5.3 
+ 
+Assuming simple harmonic motion, the expressions for displacement and velocity are: 
+ 
+ 
+       
+2
+max
+max
+2
+1 MV
+T
+=
+t
+X
+x
+t
+X
+x
+n
+n
+n
+w
+w
+w
+cos
+sin
+=
+=
+
+Do you remember what is the maximum velocity, 
+𝑥̇!"#, from t
+
+Chunk 259:
+his equation? (Refer Assignment #1). 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        4 
+The maximum velocity will occur at x = 0, giving 
+ 
+ 
+ 
+The maximum kinetic energy is therefore, 
+ 
+ 
+ 
+The maximum strain (potential) energy will occur when the mass is at its extreme displacement 
+from the equilibrium position, with maximum extension of the spring. This is represented by 
+ 
+ 
+ 
+Now, based upon energy conservation, Rayleigh stated that there must be 
+
+Chunk 260:
+a continual transfer 
+(or transform) of energy from one state to the other as the system vibrates, i.e. strain to kinetic 
+to strain etc. continuously. Taking the two extremes above and equating the conditions gives: 
+ 
+  
+ 
+      
+  
+     
+ 
+You will recognise this as the term for the natural frequency for the system, as previously 
+evaluated from Newton’s laws and consideration of the free body analysis in Chapter 2. This 
+does show that the energy method is a valid means of analysing vibratio
+
+Chunk 261:
+n. 
+ 
+ 
+5.2.2 
+Energy method applied to loaded beams 
+ 
+Consider a simply supported beam having a number of concentrated masses along its length as 
+shown in Figure 5.4. Under these concentrated loads (and ignoring the mass of the beam itself 
+for the moment), the beam would sag. If the beam is now disturbed in such a way that it vibrates 
+freely, the form of the vibration will be similar to the initial statically deflected form. Let us 
+now consider the kinetic energy and the strain energy for 
+
+Chunk 262:
+the beam, as it vibrates. 
+ 
+ 
+ 
+ 
+Figure 5.4 
+1
+cos
+    
+and
+    
+0
+sin
+=
+=
+t
+t
+n
+n
+w
+w
+(
+)
+2
+max
+2
+1
+X
+M
+T
+n
+w
+=
+2
+max
+2
+1 kX
+U
+=
+2
+2
+2
+2
+1
+2
+1
+kX
+X
+M
+n
+=
+w
+M
+k
+n =
+w
+\  
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        5 
+Let us consider the static deflection under each mass m to be y and the amplitude of vibration 
+to be represented by a, where a is a multiple of the static deflection, 
+ 
+ 
+ 
+The total maximum kinetic energy is given by, 
+ 
+ 
+ 
+The max
+
+Chunk 263:
+imum strain energy is given by, 
+ 
+ 
+ 
+, 
+, 
+ 
+ 
+and since 
+ 
+ 
+ 
+Equating the strain and kinetic energies gives, 
+ 
+ 
+ 
+ 
+and thereby the following expression for fundamental (first natural) frequency: 
+ 
+ 
+ 
+ 
+It can be seen from this expression that if the static deflection under each load (y) can be 
+determined, then it should be straight forward to evaluate the frequency of vibration. It should 
+be pointed out at this stage, that the resulting frequency is based upon the assumed static 
+def
+
+Chunk 264:
+lection form. There are two methods to evaluate the static deflection y including the 
+Macauley’s method and Dunkerley’s method. For the purpose of this syllabus, we shall 
+concentrate on the latter. 
+ 
+ 
+5.2.3 
+Dunkerley’s method and formula 
+ 
+This method is a very useful for determining the transverse frequency of vibration of beams 
+carrying concentrated masses. It utilises the concept of superposition, as will be explained next. 
+ 
+y
+c
+a
+×
+=
+(
+)
+(
+)
+(
+)
+[
+]
+(
+)
+2
+2
+2
+3
+3
+2
+2
+2
+2
+1
+1
+2
+3
+2
+2
+
+Chunk 265:
+
+2
+2
+1
+1
+max
+2
+1
+        
+3
+2
+1
+n
+n
+n
+n
+c
+y
+M
+y
+M
+y
+M
+a
+M
+a
+M
+a
+M
+T
+w
+w
+w
+w
+×
++
++
+=
++
++
+=
+(
+)
+2
+3
+3
+2
+2
+2
+2
+1
+1
+max
+2
+1
+a
+k
+a
+k
+a
+k
+U
++
++
+=
+1
+1
+1
+y
+g
+M
+k =
+21
+2
+2
+y
+g
+M
+k =
+31
+3
+3
+y
+g
+M
+k =
+(
+)
+g
+c
+y
+M
+y
+M
+y
+M
+U
+×
++
++
+=
+2
+3
+3
+2
+2
+1
+1
+max
+2
+1
+(
+)
+(
+)
+2
+3
+3
+2
+2
+2
+2
+1
+1
+3
+3
+2
+2
+1
+1
+2
+y
+M
+y
+M
+y
+M
+g
+y
+M
+y
+M
+y
+M
+n
++
++
++
++
+=
+w
+å
+å
+×
+×
+=
+2
+2
+y
+M
+y
+M
+g
+n
+w
+Maximum velocity, 𝑥̇!"# = awn 
+Remember from Chapter 2: 
+mg = kx 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                   
+
+Chunk 266:
+     6 
+Consider the beam carrying three concentrated loads as shown in Figure 5.5 below. The 
+technique involves considering the beam subjected to each load separately. In each case this 
+means that the beam will deflect due to the single load and the beam has provided stiffness at 
+the loaded position.  
+  
+ 
+ 
+Figure 5.5 
+ 
+  
+ 
+ 
+(a) 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+(c) 
+ 
+Figure 5.6 
+ 
+In this aspect of the analysis, we shall use d to represent the deflection under each load 
+separately. It should be re
+
+Chunk 267:
+cognised that d is going to be different than y, employed in the 
+previous energy method discussion, since we are now only determining the deflection at each 
+load as a result of that single load. (In the energy method, all loads were acting in the 
+determination of the y values.) Figures 5.6 (a), (b) and (c) above represent the beam deflecting 
+as a result of each load being applied separately and in isolation. 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                  
+
+Chunk 268:
+      7 
+Since for a single load there will be a unique beam stiffness, the natural frequency of the loaded 
+beam, for the single mass, can be determined. This is repeated for each load and the unique 
+stiffness associated with it. Once all the frequencies for each individual load have been 
+determined, the transverse frequency for the beam, carrying all loads simultaneously, is 
+evaluated from: 
+ 
+ 
+ 
+The stiffness of the beam, at each load, can be represented by k1, k2 and k3 respectively. Now
+
+Chunk 269:
+, 
+since stiffness is defined as force per unit displacement: 
+ 
+, 
+, 
+ 
+ 
+Hence, considering each load in turn (as in Figures 5.6 (a), (b) and (c)) the natural frequencies 
+for the beam under each single load are: 
+ 
+, 
+, 
+ 
+ 
+and substituting for k gives, 
+ 
+, 
+, 
+ 
+ 
+These represent the transverse frequencies of vibration for the beam, when loaded with each 
+mass separately. In each case these are the fundamental frequencies. It can be seen that 
+substitution into the reciprocal frequency equ
+
+Chunk 270:
+ation 
+ 
+ 
+ 
+ 
+ 
+So if the deflections under each load, for that load acting in isolation, can be determined, then 
+the fundamental transverse vibration for the beam can be evaluated for the condition of all loads 
+applied. 
+ 
+These deflection, due to each single load, could be determined using beam theory or Macauley’s 
+method (as mentioned in Section 5.2.2). However, since there is only one load in each case and 
+we only need the deflection, d under that load, there are a set of convenient equ
+
+Chunk 271:
+ations that may 
+be used to assist us. These equations, in their most general form for some common beam loaded 
+situations, are given in Table 5.1. 
+ 
+2
+3
+2
+2
+2
+1
+2
+1
+1
+1
+1
+w
+w
+w
+w
++
++
+=
+n
+1
+1
+1
+d
+g
+M
+k =
+2
+2
+2
+d
+g
+M
+k =
+3
+3
+3
+d
+g
+M
+k =
+1
+1
+1
+M
+k
+=
+w
+2
+2
+2
+M
+k
+=
+w
+3
+3
+3
+M
+k
+=
+w
+1
+1
+d
+w
+g
+=
+2
+2
+d
+w
+g
+=
+3
+3
+d
+w
+g
+=
+2
+3
+2
+2
+2
+1
+2
+1
+1
+1
+1
+w
+w
+w
+w
++
++
+=
+n
+g
+n
+3
+2
+1
+2
+1
+d
+d
+d
+w
++
++
+=
+d  values to be computed using 
+the formulas listed in Table 5.1. 
+DUNKERLEY’S 
+FORMULA 
+1 
+VIBRATIONS MEC521 – CHAPTER
+
+Chunk 272:
+ 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        8 
+ 
+Table 5.1 Formulas to determine d  (for substitution into the Dunkerley’s formula). 
+ 
+ 
+Simply-supported Beam with Overhang 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Simply-supported Beam with Overhanging Load 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+Propped Cantilever 
+ 
+Fixing moment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(
+)
+a
+x
+b
+x
+L
+EIL
+Pbx
+x
+y
+<
+<
+-
+-
+=
+0
+  
+          
+          
+6
+)
+(
+2
+2
+2
+(
+)(
+)
+L
+x
+a
+x
+Lx
+x
+L
+EIL
+Pa
+x
+y
+<
+<
+-
+-
+-
+=
+a
+        
+2
+6
+)
+(
+2
+2
+(
+)
+c
+L
+
+
+Chunk 273:
+x
+L
+b
+x
+L
+EIL
+Pa
+x
+y
++
+<
+<
+-
+-
+-
+=
+  
+          
+6
+)
+(
+2
+2
+2
+(
+)
+L
+x
+L
+x
+EIL
+Pcx
+x
+y
+<
+<
+-
+=
+0
+         
+          
+          
+6
+)
+(
+2
+2
+(
+) (
+)(
+)
+(
+)
+2
+3
+3
+6
+)
+(
+L
+x
+L
+x
+c
+EI
+L
+x
+P
+x
+y
+-
+-
+-
+=
+c
+L
+x
+L
++
+<
+<
+(
+)
+L
+a
+L
+Pab
+M
++
+=
+2
+0
+2
+(
+)
+a
+x
+ax
+Lx
+aL
+EIL
+x
+Pb
+x
+y
+<
+<
+-
+-
+=
+0
+         
+2
+3
+12
+)
+(
+2
+2
+2
+3
+2
+(
+) (
+)
+L
+x
+a
+L
+a
+x
+a
+L
+EIL
+x
+L
+Pa
+x
+y
+<
+<
+-
+-
+=
+        
+2
+3
+12
+)
+(
+2
+2
+2
+3
+2
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        9 
+EXAMPLE (5.1) 
+ 
+ 
+  
+
+Chunk 274:
+
+ 
+Determine the fundamental frequency of transverse vibration for the beam shown above using 
+the Dunkerley’s method. The second moment of area for the beam section is 2.25 ´ 10–4 m4 and 
+the modulus of elasticity for the beam material is 210 GN/m2. 
+ 
+Solution 
+ 
+Consider the two loads applied independently, as illustrated below: 
+ 
+ 
+ 
+  
+In both these cases, the loads are between the supports. Hence, from Table 5.1, the equation for 
+the deflection of a simply supported beam with overhang ca
+
+Chunk 275:
+n be used, even though there is no 
+overhang, i.e. c = 0. Either of the equations for  0 < x < a  or  a < x < L  may be used.  
+ 
+Using the first of these, 
+ 
+ 
+ 
+Now, in both load cases, we only require the specific deflection at the point of application of 
+the load, in other words at x = a. Hence, the deflection is 
+ 
+ 
+ 
+(i) In the case of the 300g load: P = 300g, a = l m, b = 2 m, L = 3 m 
+ 
+ 
+ 
+(ii) In the case of the 500g load: P = 500g, a = 2 m, b = 1 m, L = 3 m 
+ 
+(
+)
+a
+x
+b
+x
+L
+EIL
+Pbx
+
+
+Chunk 276:
+x
+y
+<
+<
+-
+-
+=
+0
+  
+          
+          
+6
+)
+(
+2
+2
+2
+(
+)
+2
+2
+2
+6
+b
+x
+L
+EIL
+Pab
+-
+-
+=
+d
+(
+)
+EI
+g
+EI
+g
+3.
+133
+2
+1
+3
+3
+6
+2
+1
+300
+2
+2
+2
+1
+=
+-
+-
+´
+´
+´
+=
+d
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        10 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+Substituting the given values of E and I into the above yields, 
+ 
+ 
+  wn = 364.6 rad/s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(
+)
+EI
+g
+EI
+g
+2.
+222
+1
+2
+3
+3
+6
+1
+2
+500
+2
+2
+2
+2
+=
+-
+-
+´
+´
+´
+=
+d
+EI
+g
+n
+
+
+Chunk 277:
+2.
+222
+3.
+133
+1
+2
+1
+2
++
+=
++
+=
+d
+d
+w
+5.
+355
+2
+EI
+n =
+w
+\  
+⇒  
+⇒  
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        11 
+ 
+ 
+ 
+WORKSHEET (5.1) 
+ 
+ 
+ 
+ 
+ 
+Determine the fundamental frequency of transverse vibration for the beam shown above using 
+the Dunkerley’s method. The second moment of area for the beam section is 500 cm4 and the 
+modulus of elasticity for the beam material is 200 GN/m2. 
+ 
+ 
+ 
+Answers:   
+wn = 16.9 rad/s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Chunk 278:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        12 
+ 
+ 
+ 
+5.3 
+Stiffness Influence Coefficient, kij 
+ 
+For a multi-DOF system (which includes 2-DOF system), the relationship between 
+displacement {x} of a mass element at a point in the system due to influence of forces {F} 
+acting at various other points in the system can be expressed by using “influence coefficients” 
+referred to as stiffness influence coefficients. This enta
+
+Chunk 279:
+ils Hooke’s Law for springs as follows: 
+ 
+{F} = [K]{x} 
+ 
+where  [K] = stiffness matrix (see Section 4.6 in Lecture Notes Chapter 4).  
+ 
+The matrix elements of [K], kij, are called stiffness influence coefficients with the following 
+definition: 
+ 
+kij is the force at a point i due to unit displacement at a point j and zero displacement* at 
+all other points. 
+ 
+*The displacements are all other points are forced to be zero (no motion). 
+ 
+Consider a 2-DOF system shown in Figure 5.7. 
+ 
+ 
+ 
+ 
+F
+
+Chunk 280:
+igure 5.7 A 2-DOF system with two mass elements and three springs. The case of ki1 is 
+illustrated above, i.e. unit displacement given at point u  (j) and forces determined at points 
+u and v (i). 
+ 
+ 
+For the 2-DOF system above, [K] can be thought of as consisting four stiffness influence 
+coefficients (i.e., four matrix elements) as follows: 
+ 
+[K] = !𝑘!!
+𝑘!"
+𝑘"!
+𝑘""# 
+u 
+v 
+1 
+1 
+2 
+2 
+3 
+point 
+point 
+= 1 unit (given input) 
+= 0 (held static) 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N
+
+Chunk 281:
+.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        13 
+ 
+where  k11 = stiffness influence coefficient at point 1 due to a unit deflection at point 1  
+k21 = stiffness influence coefficient at point 2 due to a unit deflection at point 1, etc. 
+We shall now go through a quick example of determining the influence coefficients for the 
+system shown in Figure 5.7 above. 
+ 
+Step 1:  Let x1 and x2 be the displacements of m1 and m2, respectively. 
+ 
+Step 2: Set x1 = 1 and x2 = 0 
+ 
+Step 3:  Apply equilibrium of f
+
+Chunk 282:
+orces (+¯SF = 0) in association with Hooke’s Law, F = kx 
+You need to construct the FBDs first and then apply the above to get the following equations! 
+ 
+Mass m1: k1 = -k2 + k11   
+(è) 
+Mass m2: k21 = -k2  
+ 
+(ê) 
+ 
+Equations (è) and (ê) give, 
+ 
+\    k11  =  k1  + k2    and    k21  =  -k2 
+ 
+Similarly, it can be shown that 
+ 
+ k22  =  k2  + k3    and    k12  =  -k2 
+ 
+The stiffness influence coefficients obtained above are the matrix elements that constitute the 
+stiffness matrix as follows: 
+
+
+Chunk 283:
+ 
+[K] = !𝑘! + 𝑘"
+−𝑘"
+−𝑘"
+𝑘" + 𝑘## 
+ 
+It can be seen that k12 = k21. This is pertinent to the Maxwell’s reciprocal theorem, which states 
+that force (or deflection) at any point in the system due to a unit displacement (or load) acting 
+at any other of the same system is equal to the force (or deflection) at the second point due to a 
+unit displacement (or load) at the first point. Hence, according to this theorem, 
+ 
+\    kij  =  kji 
+ 
+ 
+5.4 
+Flexibility Influence Coefficient, aij 
+ 
+The flexib
+
+Chunk 284:
+ility influence coefficient (labelled as aij) is basically the inverse of the stiffness 
+influence coefficient (kji). 
+ 
+Thus aij is the influence of unit force at one point on the displacements at various points of a 2-
+DOF (or multi-DOF) system, the relationship between force and displacement is given by, 
+ 
+⇒  
+{F} = [K]{x} 
+ 
+⇒  
+{x} = [K]–1{F} 
+ 
+\     
+{x} = [aij]{F} 
+ 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        14 
+where  [aij] can be determin
+
+Chunk 285:
+ed from [K] by the following relationship: 
+ 
+𝑎!" = 𝐴𝑑𝑗 [𝐾]
+|[𝐾]|  
+ 
+ 
+So, if [K] = +𝑘##
+𝑘#$
+𝑘$#
+𝑘$$-, then 
+ 
+ 
+⇒  Adj [K] = + 𝑘$$
+−𝑘#$
+−𝑘$#
+𝑘## - 
+ 
+⇒  |[K]| = k22 k11 – k12 k21 
+ 
+ 
+5.5 
+Determination of fundamental frequency using aij 
+ 
+As an alternative to the Dunkerley’s formula presented in Section 5.2.3, the following formula 
+can be used to determine the first natural frequency (fundamental frequency) of the transverse 
+vibration of a beam with two discrete masses (see Figure 5.5 to v
+
+Chunk 286:
+isualize), or any 2-DOF 
+systems: 
+ 
+ 
+1
+𝜔#
+$ = 𝑎##𝑚# + 𝑎$$𝑚$ 
+ 
+ 
+ 
+We shall proceed to do an exercise to apply the alternative Dunkerley’s formula above. 
+ 
+ 
+EXAMPLE (5.2) 
+ 
+The mass and stiffness matrices of a 2-DOF system are given by: 
+ 
+ 
+[M] = &3
+0
+0
+2*,  [K] = &12
+−4
+−4
+8 * 
+  
+ 
+Estimate the fundamental frequency of the system using the alternative Dunkerley’s formula 
+(flexibility influence coefficient method). 
+ 
+Solution 
+ 
+⇒  Adj [K] = 38
+4
+4
+127 
+ 
+⇒  |[K]| = (12)(8) – (–4)( –4) 
+
+Chunk 287:
+= 80 
+ 
+⇒  𝑎!" = 
+#
+%& 38
+4
+4
+127  
+ 
+2 
+3 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        15 
+    𝑎!" = 3 0.1
+0.05
+0.05
+0.157  
+ 
+⇒  a11 = 0.1, a22 = 0.15 
+ 
+From [M], m1 = 3 kg, m2 = 2 kg.  
+ 
+Substituting into the alternative Dunkerley’s formula gives, 
+ 
+⇒  
+#
+'$% = 𝑎##𝑚# + 𝑎$$𝑚$ 
+ 
+⇒  
+#
+'$% = (0.1)(3) + (0.15)(2) 
+ 
+\     w1 = 1.29 rad/s 
+ 
+ 
+ 
+ 
+ 
+EXAMPLE (5.3) 
+ 
+Determine the flexibility influence coefficients matrix, [aij], for the system shown
+
+Chunk 288:
+ below. 
+ 
+ 
+ 
+ 
+ 
+Help 
+ 
+You may use the following detailed formula (see the corresponding general formula on p. 8 for 
+reference) to determine each element of [aij], i.e. deflection at point i due to load at point j: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer:  
+ 
+αij ≡ y(𝑥$) = 
+Pxjbj
+6EIL  3L2 − xi
+2 −bi
+24 
+VIBRATIONS MEC521 – CHAPTER 5 
+ 
+© 2024 David, N.V. 
+ 
+ 
+ 
+ 
+ 
+ 
+                        16 
+ 
+ 
+ 
+WORKSHEET (5.2) 
+ 
+The equations of motion of a 2-DOF system is given by: 
+ 
+ 
+&4
+0
+0
+1* 5𝜃̈!
+𝜃̈"
+8 + &16
+−4
+
+Chunk 289:
+
+−4
+2 * :𝜃!
+𝜃"; = 0 
+ 
+(a) Determine the natural frequencies (w1 and w2) of the system using the normal mode 
+solution. 
+(b) Determine the flexibility influence coefficients, aij. 
+(c) Estimate the fundamental frequency (w1) of the system using the alternative Dunkerley’s 
+formula (flexibility influence coefficient method). 
+ 
+ 
+ 
+Answers:   
+(a) w1 = 0.87 rad/s, w2 = 2.29 rad/s 
+(b) 𝑎!" = 30.125
+0.25
+0.25
+1 7 
+(c) w1 = 0.82 rad/s 
+ 
+You may refer to the solution 
+to this example here. 
+
+
